@@ -62,12 +62,12 @@ function getPage(succeed, fail) {
 }
 
 // spawn('mv', ['collections.json', 'backups/collections.' + (new Date).getTime() + '.json.bak']);
-const ws = fs.createWriteStream('./collections.json');
+const ws = fs.createWriteStream('./collections.min,json');
 ws.write(fileStart);
 function close(msg) {
   console.log(msg);
   ws.write(fileEnd);
   ws.end();
-  // spawn('python', ['-mjson.tools', 'collections.json', '>', ');
+  spawn('python', ['-mjson.tools', 'collections.min.json', '>', 'collections.json');
 }
 const run = new Promise(getPage).then(close).catch(close);
