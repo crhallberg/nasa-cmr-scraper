@@ -59,7 +59,7 @@
 - `get-collections.js` - gets all metadata from collections, colates all pages as if it were all one page
 - `collections.json` - the result of `get-collections.js`
 - `links-paging.js` - gets all links available from collections.json API source
-- `all_links.txt` - the result of `links-paging.js`
+- `all-links.txt` - the result of `links-paging.js`
 - `sort-links.js` - sorts `all_links.txt` and removes duplicates
 - `sorted-links.txt` - the result of `sort-links.js`
 - `trace-sorted-links.js` - uses `curl -sIL` to check the headers of all the urls in `sorted-links.txt`
