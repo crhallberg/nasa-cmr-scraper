@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 fs.writeFileSync('./sorted-links.txt', '', 'utf-8');
-fs.readFile('./all_links.txt', 'utf-8', function(err, txt) {
+fs.readFile('./all-links.txt', 'utf-8', function(err, txt) {
   if (err) {
     console.log(err);
     return;
@@ -12,7 +12,7 @@ fs.readFile('./all_links.txt', 'utf-8', function(err, txt) {
   const ws = fs.createWriteStream('./sorted-links.txt');
   for (let i = 0; i < lines.length; i++) {
     if (i === 0 || lines[i] !== lines[i-1]) {
-      ws.write(lines[i] + '\n');
+      ws.write(lines[i].replace('hhttp', 'http') + '\n');
       count ++;
     }
   }

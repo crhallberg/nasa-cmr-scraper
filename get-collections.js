@@ -61,7 +61,7 @@ function getPage(succeed, fail) {
     .catch(fail);
 }
 
-// spawn('mv', ['collections.json', 'backups/collections.' + (new Date).getTime() + '.json.bak']);
+spawn('mv', ['collections.min.json', 'backups/collections.' + (new Date).getTime() + '.json.bak']);
 const ws = fs.createWriteStream('./collections.min,json');
 ws.write(fileStart);
 function close(msg) {

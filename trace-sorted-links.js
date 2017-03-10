@@ -1,6 +1,6 @@
 const spawn = require('child_process').spawn,
       fs = require('fs'),
-      ftp = require('ftp-get'),
+      http = require('http'),
       debug = () => {}; // console.log.bind(console); //
 
 const threads = 50;
@@ -45,8 +45,7 @@ function investigate(index) {
   traceDownload(links[index], 10)
     .then(function(res) {
       if ((Object.keys(res.headers).length === 0 && res.headers.constructor === Object)
-        || !res.headers['Content-Type']
-        || res.headers['Content-Type'] === 'text/html'
+        || !res.headers['Content-Type'] || res.headers['Content-Type'] === 'text/html'
       ) {
         reject();
       }
@@ -126,7 +125,7 @@ function traceDownload(url) {
             res.url = url;
             succeed(res);
           } else {
-            fail(res.status + ' ' + url);
+            fail(res.status + ' (' + http.STATUS_CODES[res.status] + ') ' + url);
           }
         } catch(e) {
           fail(e);

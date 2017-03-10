@@ -237,7 +237,6 @@ ftp://ftp.dnr.state.ak.us/asgdc/adnr/
 ftp://ftp.ecotrust.org/pub/data/wash/willapa/waus_ip.zip
 ftp://ftp.ecotrust.org/pub/docs/metadata/oregon/midcoast/csri.htm
 ftp://ftp.ecotrust.org/pub/docs/metadata/oregon/midcoast/geology.htm
-ftp://ftp.ecotrust.org/pub/docs/metadata/oregon/state/or_mins.htm
 ftp://ftp.eia.doe.gov/
 ftp://ftp.etl.noaa.gov/et6/cruises/ASCOS_2008/ODEN/ceilometer/Raw
 ftp://ftp.etl.noaa.gov/et6/cruises/ASCOS_2008/ODEN/radar/mmcr/Processed/DAMOCLES
@@ -252,7 +251,6 @@ ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s11_Konza_Prairie/
 ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s12_Krasnoyarsk/
 ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s13_Maricopa_Agricultural_Center/
 ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s14_Mongu/
-ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s14_Mongu/ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s17_Skukuza/
 ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s15_SALSA/
 ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s16_Sevilleta/
 ftp://ftp.glcf.umd.edu/glcf/EOS_Land_Validation/s17_Skukuza/
@@ -520,7 +518,7 @@ ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/andrews1999/
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/andrews1999/readme_andrews1999.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/bard1997/
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/bareille1994/
-ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/bareille1994/readme_bareille1994.txthttp://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0835480
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/bareille1994/readme_bareille1994.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/barron2003/
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/barron2003/barron2003.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/barron2004/barron2004.txt
@@ -902,7 +900,7 @@ ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/venec-peyre1997/
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/venec-peyre1997/readme_venec-peyre1997.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/venz1999/readme_venz1999.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/waelbroeck1998/readme_waelbroek1998.txt
-ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/wang1999/readme_wang1999.txthttp://www.cpc.ncep.noaa.gov/data/teledoc/ea.shtml
+ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/wang1999/readme_wang1999.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/watkins2005/watkins2005.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/weaver1998/readme_weaver1998.txt
 ftp://ftp.ncdc.noaa.gov/pub/data/paleo/paleocean/by_contributor/weidman1994/readme_weidman1994.txt
@@ -1242,6 +1240,7 @@ ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_G/EUR/
 ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_G/NAVO
 ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_G/NAVO/
 ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_L/EUR/
+ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_L/NAVO
 ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_L/NAVO/
 ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_L/NEODAAS
 ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_L/NEODAAS/
@@ -1377,7 +1376,6 @@ ftp://ghrc.nsstc.nasa.gov/pub/data/ksc-ldar/
 ftp://ghrc.nsstc.nasa.gov/pub/data/tmi-op/
 ftp://ghrc.nsstc.nasa.gov/pub/doc/ampr/ampr.pdf
 ftp://ghrc.nsstc.nasa.gov/pub/doc/ampr/example_ampr_read_program.f
-ftp://ghrc.nsstc.nasa.gov/pub/doc/ampr/example_ampr_read_program.fhttp://www.espo.nasa.gov/tc4/
 ftp://ghrc.nsstc.nasa.gov/pub/doc/gpmgv/gcpex/gpmmettecgcpex/GCPEX_Met_Tower_instruments.html
 ftp://ghrc.nsstc.nasa.gov/pub/doc/gpmgv/gcpex/gpmmrrnagcpex/DataFormat_mrr_gcpex.pdf
 ftp://ghrc.nsstc.nasa.gov/pub/doc/gpmgv/gcpex/gpmpagcpex/DataFormat_parsivel_gcpex.pdf
@@ -1653,6 +1651,7 @@ ftp://l5eil01.larc.nasa.gov/MISR/MIL3DALN.006/
 ftp://l5eil01.larc.nasa.gov/MISR/MIL3DCFA.001/
 ftp://l5eil01.larc.nasa.gov/MISR/MIL3DCLD.002/
 ftp://l5eil01.larc.nasa.gov/MISR/MIL3DLS.004/
+ftp://l5eil01.larc.nasa.gov/MISR/MIL3DLSN.004/
 ftp://l5eil01.larc.nasa.gov/MISR/MIL3DRD.004/
 ftp://l5eil01.larc.nasa.gov/MISR/MIL3MAE.004/
 ftp://l5eil01.larc.nasa.gov/MISR/MIL3MAEN.004/
@@ -2668,7 +2667,6 @@ ftp://podaac-ftp.jpl.nasa.gov/allData/smap/sw/matlab/
 ftp://podaac-ftp.jpl.nasa.gov/allData/smap/sw/r/
 ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L2/degree_1
 ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/dot
-ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/dotftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/dot
 ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/ecco_obp
 ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/gldas_monthly/animation
 ftp://podaac-ftp.jpl.nasa.gov/allData/tellus/L3/gldas_monthly/ascii
@@ -3055,6 +3053,7 @@ ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX02/vegetation
 ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX02/vegetation/watershed_sampling/
 ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/aircraft_remote_sensing/2DSTAR/
 ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/aircraft_remote_sensing/PSR/
+ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/ancillary_data/photographs/
 ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/ancillary_data/soil_texture/
 ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/ancillary_data/soils/
 ftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/ancillary_data/surface_roughness/
@@ -4030,6 +4029,7 @@ http://ampr.nsstc.nasa.gov/
 http://amrc.ssec.wisc.edu
 http://amrc.ssec.wisc.edu/
 http://amrc.ssec.wisc.edu/aws.html
+http://amrc.ssec.wisc.edu/aws/williefieldmain.html
 http://amrc.ssec.wisc.edu/data/backtraj/
 http://amrc.ssec.wisc.edu/data/view-data.php?action=list&amp;amp;product=satellite/composite
 http://amrc.ssec.wisc.edu/data/view-data.php?action=list&product=navigation
@@ -4135,7 +4135,9 @@ http://aura.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level1/ML1RADG.003/
 http://aura.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level1/ML1RADG.004/
 http://aura.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level1/ML1RADT.003/
 http://aura.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level1/ML1RADT.004/
+http://aura.gesdisc.eosdis.nasa.gov/data/Aura_OMI_Level2/OMMYDAGEO.003/
 http://aura.gesdisc.eosdis.nasa.gov/data/Aura_OMI_Level2/OMMYDCLD.003/
+http://aura.gesdisc.eosdis.nasa.gov/opendap/Aura_OMI_Level2/OMMYDAGEO.003/contents.html
 http://aura.gesdisc.eosdis.nasa.gov/opendap/Aura_OMI_Level2/OMMYDCLD.003/contents.html
 http://aura.gesdisc.eosdis.nasa.gov/opendap/hyrax/Aura_OMI_Level2/OMMYDCLD.003/doc/README.OMI_DUG.pdf
 http://aura.gsfc.nasa.gov/instruments/omi.html
@@ -4373,7 +4375,7 @@ http://cdiac.esd.ornl.gov/ndps/ndp025.html
 http://cdiac.esd.ornl.gov/ndps/ndp030.html
 http://cdiac.esd.ornl.gov/ndps/ndp033.html
 http://cdiac.esd.ornl.gov/ndps/ndp040.html
-http://cdiac.esd.ornl.gov/ndps/ndp042.htmlhttp://shoreline.noaa.gov/data/datasheets/medres.html
+http://cdiac.esd.ornl.gov/ndps/ndp042.html
 http://cdiac.esd.ornl.gov/ndps/ndp043a.html
 http://cdiac.esd.ornl.gov/ndps/ndp043b.html
 http://cdiac.esd.ornl.gov/ndps/ndp050.html
@@ -4466,6 +4468,7 @@ http://cdiac.ornl.gov/ftp/FACE/nzdata/yield.txt
 http://cdiac.ornl.gov/ftp/FACE/ornldata/lai/lai_1999.dat
 http://cdiac.ornl.gov/ftp/db1008/
 http://cdiac.ornl.gov/ftp/db1009/
+http://cdiac.ornl.gov/ftp/db1013/
 http://cdiac.ornl.gov/ftp/db1015/
 http://cdiac.ornl.gov/ftp/db1015/db1015.txt
 http://cdiac.ornl.gov/ftp/ndp002/
@@ -4539,8 +4542,6 @@ http://cdip.ucsd.edu/?nav=historic&xitem=stn_home&stn=198
 http://cdip.ucsd.edu/?nav=historic&xitem=stn_home&stn=202
 http://cdmo.baruch.sc.edu
 http://cdmo.baruch.sc.edu/
-http://cdmo.baruch.sc.eduhttp://cdmo.baruch.sc.edu
-http://cdmo.baruch.sc.eduhttp://www.fws.gov/northeast/gis/refuge1/greatswamp/bnd/grs_base.htm
 http://cdo.ncdc.noaa.gov/qclcd_ascii/
 http://cdp.ucar.edu/MergedHadleyOI
 http://cdrake.org/
@@ -4557,14 +4558,14 @@ http://certmapper.cr.usgs.gov/noga/servlet/NogaNewGISResultsServ?provnum=20&page
 http://certmapper.cr.usgs.gov/noga/servlet/NogaNewGISResultsServ?provnum=50&page=play
 http://certmapper.cr.usgs.gov/website/worldmaps/viewer.htm?Service=WorldArctic&OVMap=WorldArctic_overview&extent=auto
 http://cfa-www.harvard.edu/uvcs/
-http://cfa-www.harvard.edu/uvcs/uvcs_resources/http://sohowww.nascom.nasa.gov/data/
+http://cfa-www.harvard.edu/uvcs/uvcs_resources/
 http://cfs.nrcan.gc.ca/regions/pfc
 http://cgdi.gc.ca/en/index.html
 http://chartmaker.ncd.noaa.gov
 http://chartmaker.ncd.noaa.gov/staff/charts.htm
 http://chesapeake.towson.edu/
 http://chesapeake.usgs.gov/data.html
-http://chesapeakebay.noaa.gov/http://earthexplorer.usgs.gov
+http://chesapeakebay.noaa.gov/
 http://chla.library.cornell.edu/c/chla/browse.html
 http://ci.nii.ac.jp/vol_issue/nels/AA11564943/ISS0000030110_en.html
 http://ciei.colorado.edu/~nshapiro/MODEL/index.html
@@ -4720,6 +4721,7 @@ http://daac.ornl.gov/ISLSCP_II/guides/umd_landcover_xdeg.html
 http://daac.ornl.gov/ISLSCP_II/guides/veg_continuous_fields_xdeg.html
 http://daac.ornl.gov/S2K/historical_UVA_edited/index.html
 http://daac.ornl.gov/S2K/safari.html
+http://daac.ornl.gov/S2K/safari.shtml
 http://daac.ornl.gov/SNF/guides//nws_daily_climate_1977.html
 http://daac.ornl.gov/SNF/guides//nws_daily_climate_1978.html
 http://daac.ornl.gov/SNF/guides//nws_daily_climate_1979.html
@@ -4947,6 +4949,7 @@ http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=5137
 http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=54
 http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=57
 http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=62
+http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=65
 http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=66
 http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=67
 http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=68
@@ -5601,7 +5604,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2050
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_207
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2070
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2085
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2086http://hielo.igme.es/index.php?option=com_contact&catid=12&Itemid=44
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2086
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_21
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2112
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2122
@@ -5766,7 +5769,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2665
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2668
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2677
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2683
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2683_PAR_Casey2004http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4308
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2683_PAR_Casey2004
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2683_PAR_Kerguelen2005
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2683_PAR_Kerguelen2006
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2683_PAR_Prydz2005
@@ -5802,7 +5805,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2753
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_276
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2763
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2767
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2784http://geology.er.usgs.gov/eespteam/prism/prism_background.html
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2784
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2788
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2792
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2794
@@ -5824,7 +5827,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2933_field_lab_b
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2937_field_lab_books
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940_Bird_Island
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940_Bird_Island_Isotopeshttp://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/fresc/harvested/fresc.usgs.gov_bdpmetadata_FRE00668.xml&full_datasource=Forest%20and%20Rangeland%20Ecosystem%20Science%20Center%20Metadata%20Node&full_queryString=%20earnst%20AND%20(%20datasource%20:(%20fresc%20%20)%20)%20&ds_id=
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940_Bird_Island_Isotopes
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940_Cape_Shirreff
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940_Cape_Shirreff_Isotopes
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_2940_Marion_Island
@@ -5907,7 +5910,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0607R0
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0607R2
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0708R0
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0708R2
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0708R4http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2967
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0708R4
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0809R0
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0809R2
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASAC_40_AS0809R4
@@ -6109,7 +6112,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_NP091001
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_NP091094
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_NP120198
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_NP120299
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_PA120198http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1169
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_PA120198
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_PB111200
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_PN010297
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=ASPECT_PN010394
@@ -6307,20 +6310,22 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Casey_TG_1
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Casey_TG_2
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Clone_Libraries
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Copepods
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Cosmic_Ray_PWhttp://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Cosmic_Ray_NM
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Cosmic_Ray_NM
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Cosmic_Ray_PW
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Cosmic_Ray_SM
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Cosmic_Ray_UGM
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Biota
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Chemistryhttp://pubs.usgs.gov/of/2004/1026/geochem_3.htm
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Chemistry
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Ecotoxicology
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_HabitatSurveys
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Macrofauna
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Metalshttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=879
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Metals
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Oceanography
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_Sediment
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_SedimentNutrientshttp://sofia.usgs.gov/exchange/levesque/levesquephy.html
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_SedimentNutrients
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_SedimentTraps
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_TotalOrganicCarbon
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DB_Antarctic_Artefacts
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DB_Argos_PTT_Tracking
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DB_Contaminated_Sites
@@ -6735,7 +6740,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SPOT5_BEAVER_LOEWE_FE
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SP_Bibliography
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SQ41-42
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SR41-42
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SR43-44https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=2201
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SR43-44
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SRE3_CHEM
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SRE4_Macrofauna
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=SRE4_Macrofauna_Ambient_T1-5
@@ -6804,7 +6809,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Tracking_EDP
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Tracking_Mag
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Tracking_SI
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=Type_localities
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=UV_DMS_MINICOSMhttp://www.ngdc.noaa.gov/dmsp/
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=UV_DMS_MINICOSM
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=UV_Davis
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=VHMap
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=VH_Bibliography
@@ -7147,9 +7152,9 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_icecore_analy
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_katabatic_1984
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_season_1966
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_season_1967
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_survey_1987
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_totten_1982
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_traverse_logs_1986http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=12&t=101634&s=0&d=4&d=44
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_traverse_logs_1986http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_traverse_logs_1986
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lgbt_daily_logs
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lgbt_reports
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lidar
@@ -7281,7 +7286,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=seaice_icecores_nella
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=seawater-temp-casey-Dec03
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=seawifs
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=sgp_census_a
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=shirley_demhttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2289
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=shirley_dem
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=snow_acc_29sae
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=snow_accumulation_amery_88_91
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=snowstake_lawdome_1964
@@ -7292,6 +7297,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=stefansson_sat
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=steinnes_penguin_gis
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=stibbs_bay_sat
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=strain_grid_lawdome_1977
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=strain_grid_lawdome_1981
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=stratigraphy_wilkes_1963
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=summer_sea_salt_1000-2009
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_1978-79_1
@@ -7324,7 +7330,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_1999-2000_V4_V
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2000-01_V3_V5_V7
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2000-01_auslig
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2000-01_lars_vest_mawson
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2000-2001_Heardhttp://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=lawdome_survey_1987
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2000-2001_Heard
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2000_01_velthuis
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2001_grove
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=survey_2002-03_V2_V5
@@ -7373,7 +7379,7 @@ http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_aerial
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_casey
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_diet
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_emigrat
-http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_indexhttps://secure3.aad.gov.au/proms/public/projects/search_projects_results.cfm?project_no=226
+http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_index
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_mass
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_sat_99
 http://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=wed_survey
@@ -7563,6 +7569,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1220
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1221
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1222
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1223
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1224
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1225
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1226
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1227
@@ -7597,6 +7604,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1304
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1305
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1306
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1307
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1308
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1309
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1310
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1311
@@ -8098,6 +8106,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2068
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2069
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2070
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2071
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2072
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2074
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2075
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2076
@@ -8248,6 +8257,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2285
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2286
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2287
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2288
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2289
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2290
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2291
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2292
@@ -8521,6 +8531,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2942
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2943
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2965
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2966
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2967
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2970
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2971
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2972
@@ -8604,6 +8615,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3182
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3183
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3186
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3187
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3188
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3193
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3194
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3195
@@ -8971,6 +8983,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3777
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3778
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3779
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3780
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3781
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3782
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3783
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3784
@@ -9254,6 +9267,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4280
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4297
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4303
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4306
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4308
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4309
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4310
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4311
@@ -9384,6 +9398,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4476
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4477
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4478
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4479
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4481
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4482
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4483
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4484
@@ -9394,6 +9409,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4492
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4493
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4494
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4503
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4505
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4506
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4507
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4508
@@ -9615,6 +9631,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=851
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=852
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=853
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=856
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=857
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=858
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=859
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=860
@@ -9634,6 +9651,7 @@ http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=873
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=876
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=877
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=878
+http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=879
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=880
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=881
 http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=882
@@ -10252,6 +10270,7 @@ http://data.eol.ucar.edu/codiac/ds_proj?CEPEX
 http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_001
 http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_002
 http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_003
+http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_004
 http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_005
 http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_006
 http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_007
@@ -10319,7 +10338,7 @@ http://data.eol.ucar.edu/codiac/projs?CEOP/EOP-1
 http://data.eol.ucar.edu/codiac/projs?COMET
 http://data.eol.ucar.edu/codiac/projs?COMET_CASE_001
 http://data.eol.ucar.edu/codiac/projs?COMET_CASE_002
-http://data.eol.ucar.edu/codiac/projs?COMET_CASE_003http://data.eol.ucar.edu/codiac/ds_proj?COMET_CASE_004
+http://data.eol.ucar.edu/codiac/projs?COMET_CASE_003
 http://data.eol.ucar.edu/codiac/projs?COMET_CASE_004
 http://data.eol.ucar.edu/codiac/projs?COMET_CASE_005
 http://data.eol.ucar.edu/codiac/projs?COMET_CASE_006
@@ -10790,7 +10809,7 @@ http://data.scarmarbin.be/dataset/2438
 http://data.scarmarbin.be/dataset/2439
 http://data.scarmarbin.be/dataset/2440
 http://data.scarmarbin.be/dataset/2441
-http://data.scarmarbin.be/dataset/2442http://data.aad.gov.au/aadc/mapcat/display_map.cfm?map_id=65
+http://data.scarmarbin.be/dataset/2442
 http://data.scarmarbin.be/dataset/2443
 http://data.scarmarbin.be/dataset/2444
 http://data.scarmarbin.be/dataset/2449
@@ -10799,10 +10818,10 @@ http://data.scarmarbin.be/dataset/539
 http://data.scarmarbin.be/dataset/542
 http://data.scarmarbin.be/dataset/543
 http://data.whirlingdisease.montana.edu/datasetdetail?d=108
+http://data.whirlingdisease.montana.edu/datasetdetail?d=29
 http://data.whirlingdisease.montana.edu/datasetdetail?d=57
 http://data.whirlingdisease.montana.edu/datasetdetail?d=8
 http://data.whirlingdisease.montana.edu/datasetdetail?d=98
-http://data.whirlingdisease.montana.edu/datasetlist
 http://data.whirlingdisease.montana.edu/metadata/RockCreeklabexposuretubifex.html
 http://data.whirlingdisease.montana.edu/metadata/RockCreektempdata.html
 http://data.whirlingdisease.montana.edu/metadata/Velocity.html
@@ -11110,6 +11129,7 @@ http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPMST.png
 http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPODT.png
 http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPQDT.png
 http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPRAD.png
+http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPTDT.png
 http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPTRB.png
 http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPUDT.png
 http://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNXADG.png
@@ -11210,6 +11230,7 @@ http://disc.sci.gsfc.nasa.gov/MERRA/images/MATUNXLND_5_2_0.png
 http://disc.sci.gsfc.nasa.gov/MERRA/images/MATUNXOCN_5_2_0.png
 http://disc.sci.gsfc.nasa.gov/MERRA/images/MATUNXRAD_5_2_0.png
 http://disc.sci.gsfc.nasa.gov/MERRA/images/MATUNXSLV_5_2_0.png
+http://disc.sci.gsfc.nasa.gov/MERRA/images/MSC0NXMLD_5_2_0.png
 http://disc.sci.gsfc.nasa.gov/MERRA/images/MST1NXMLD_5_2_0.png
 http://disc.sci.gsfc.nasa.gov/MERRA/images/MSTMNXMLD_5_2_0.png
 http://disc.sci.gsfc.nasa.gov/MERRA/images/MSTUNXMLD_5_2_0.png
@@ -11845,6 +11866,7 @@ http://disc.sci.gsfc.nasa.gov/neespi/images/sample.AMSRE_STDMO.005.201001.png
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MOD11CM1D.005.201007.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MOD11CM1N.005.201007.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MOD14CM1.005.201007.gif
+http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MODVI.005.201007.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MYD11CM1D.005.201007.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MYD11CM1N.005.201007.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MYD14CM1.005.201007.gif
@@ -11852,6 +11874,7 @@ http://disc.sci.gsfc.nasa.gov/neespi/images/sample.MYDVI.005.201007.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.NHICEM.001.201001.gif
 http://disc.sci.gsfc.nasa.gov/neespi/images/sample.NHSNOWM.001.201001.gif
 http://disc.sci.gsfc.nasa.gov/nimbus/images/BUVN4L1DCM.png
+http://disc.sci.gsfc.nasa.gov/nimbus/images/BUVN4L1DCW.png
 http://disc.sci.gsfc.nasa.gov/nimbus/images/BUVN4L1PDB.png
 http://disc.sci.gsfc.nasa.gov/nimbus/images/BUVN4L1RUT.png
 http://disc.sci.gsfc.nasa.gov/nimbus/images/BUVN4L2CPOZ.png
@@ -11888,7 +11911,6 @@ http://disc.sci.gsfc.nasa.gov/precipitation/images/RAIN_JAEGER.png
 http://disc.sci.gsfc.nasa.gov/precipitation/images/RAIN_LEGATES.png
 http://disc.sci.gsfc.nasa.gov/recipes/
 http://disc.sci.gsfc.nasa.gov/recipes/?q=recipe-cookbook
-http://disc.sci.gsfc.nasa.gov/recipes/?q=recipe-cookbookhttp://www.nasa.proj.ac.il/geos/med.html
 http://disc.sci.gsfc.nasa.gov/repository/Mission/HIRDLS/3.3_Product_Documentation/3.3.5_Product_Quality/HIRDLS-DQD_V7.pdf
 http://disc.sci.gsfc.nasa.gov/uui/datasets?keywords=%22MERRA%22
 http://disc.sci.gsfc.nasa.gov/uui/datasets?keywords=%22MERRA-2%22
@@ -12053,7 +12075,6 @@ http://docs.lib.noaa.gov/rescue/data_rescue_guatemala.html
 http://docs.lib.noaa.gov/rescue/data_rescue_guinea-bissau.html
 http://docs.lib.noaa.gov/rescue/data_rescue_haiti.html
 http://docs.lib.noaa.gov/rescue/data_rescue_home.html
-http://docs.lib.noaa.gov/rescue/data_rescue_home.htmlhttp://docs.lib.noaa.gov/rescue/data_rescue_namibia.html
 http://docs.lib.noaa.gov/rescue/data_rescue_hungary.html
 http://docs.lib.noaa.gov/rescue/data_rescue_india.html
 http://docs.lib.noaa.gov/rescue/data_rescue_indochina.html
@@ -12068,6 +12089,7 @@ http://docs.lib.noaa.gov/rescue/data_rescue_libya.html
 http://docs.lib.noaa.gov/rescue/data_rescue_madagascar.html
 http://docs.lib.noaa.gov/rescue/data_rescue_mexico.html
 http://docs.lib.noaa.gov/rescue/data_rescue_mozambique.html
+http://docs.lib.noaa.gov/rescue/data_rescue_namibia.html
 http://docs.lib.noaa.gov/rescue/data_rescue_netherlands_antilles.html
 http://docs.lib.noaa.gov/rescue/data_rescue_norway.html
 http://docs.lib.noaa.gov/rescue/data_rescue_pakistan.html
@@ -12106,7 +12128,6 @@ http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_D
 http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/LIMSN7L3_FileSpec.pdf
 http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/LIMS_Users_Guide.pdf
 http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/NimbusIVUG.pdf
-http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/NimbusIVUG.pdfhttp://disc.sci.gsfc.nasa.gov/nimbus/images/BUVN4L1DCW.png
 http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/NimbusVIIUG.pdf
 http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/NimbusVIUG.pdf
 http://docserver.gesdisc.eosdis.nasa.gov/repository/Mission/NIMBUS/3.3_Product_Documentation/3.3.2_Product_Rqmts_Design/n4-buv-darkcurrent-datafiltering.pdf
@@ -12171,8 +12192,8 @@ http://doi.pangaea.de/10.1594/PANGAEA.823395
 http://doi.pangaea.de/10.1594/PANGAEA.826460
 http://drifters.doe.gov
 http://drought.unl.edu/MonitoringTools/NASAGRACEDataAssimilation.aspx
+http://ds.data.jma.go.jp/gmd/wdcgg
 http://ds.data.jma.go.jp/gmd/wdcgg/
-http://ds.data.jma.go.jp/gmd/wdcgghttp://gaw.kishou.go.jp/wdcgg/
 http://ds.iris.edu/
 http://ds.iris.edu/ds/nodes/dmc/
 http://ds.iris.edu/gmap/2C?timewindow=2010-2011
@@ -12615,6 +12636,7 @@ http://dx.doi.org/10.5067/MODIS/MOD14A2.006
 http://dx.doi.org/10.5067/MODIS/MOD15A2H.006
 http://dx.doi.org/10.5067/MODIS/MOD17A2H.006
 http://dx.doi.org/10.5067/MODIS/MOD17A3H.006
+http://dx.doi.org/10.5067/MODIS/MOD44B.006
 http://dx.doi.org/10.5067/MODIS/MODOCGA.006
 http://dx.doi.org/10.5067/MODIS/MODTBGA.006
 http://dx.doi.org/10.5067/MODIS/MYD09A1.006
@@ -12871,7 +12893,6 @@ http://earth.esa.int/esa_doc/doc_ra_.html
 http://earth.esa.int/esa_doc/doc_sar.html
 http://earth.esa.int/esa_doc/doc_tpm.html
 http://earth.esa.int/esa_doc/doc_tpm.html#_NOA
-http://earth.esa.int/esa_doc/doc_tpm.html#_NOAhttp://www.mass.gov/czm/czm.htm
 http://earth.esa.int/ew/fires/indonesia_97/
 http://earth.esa.int/missions/thirdpartymission/IRSP3.html
 http://earth.esa.int/missions/thirdpartymission/IRSP6.html
@@ -13075,7 +13096,8 @@ http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_Aqua_Edition2C.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_TRMM-PFM-VIRS_Edition2C.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_Terra_Edition2B.pdf
-http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_Terra_Edition2F.pdfhttp://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_Terra_Edition2G.pdf
+http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_Terra_Edition2F.pdf
+http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_CRS_Terra_Edition2G.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_ES4_NPP_Edition1.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_ES4_TRMM-PFM_Edition2.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_ES8_Aqua_Edition3.pdf
@@ -13092,6 +13114,7 @@ http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_SSF_Aqua_Edition3A.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_SSF_TRMM_Edition2B.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_SSF_Terra_Edition1A.pdf
+http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_SSF_Terra_Edition2B.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/ceres/quality_summaries/CER_SSF_Terra_Edition3A.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/erbe/guide/erbe_s10n.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/erbe/guide/erbe_s4.pdf
@@ -13228,7 +13251,7 @@ http://eosweb.larc.nasa.gov/sites/default/files/project/smmr/guide/base_smmr_pra
 http://eosweb.larc.nasa.gov/sites/default/files/project/success/guide/base_success_utah_pdl.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/tarfox/guide/base_lase_tarfox_dataset.pdf
 http://eosweb.larc.nasa.gov/sites/default/files/project/tarfox/guide/base_tarfox_datasets.pdf
-http://epact2.gsfc.nasa.gov/https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=100
+http://epact2.gsfc.nasa.gov/
 http://epoca-project.eu/
 http://epoca-project.eu/index.php/data/data-sets.html
 http://eprints.soton.ac.uk/42071/
@@ -13355,6 +13378,7 @@ http://fresc.usgs.gov/products/dataset/mortality/ncamort.zip
 http://fresc.usgs.gov/products/dataset/sagebrush/FRE00648.zip
 http://fresc.usgs.gov/products/dataset/sagebrush/FRE00650.zip
 http://fresc.usgs.gov/research/researchPage.aspx?Research_Page_ID=102
+http://ftpbrowser.gsfc.nasa.gov/ae_de2_s.html
 http://ftpbrowser.gsfc.nasa.gov/magsat.html
 http://fw.ky.gov/WAP/Pages/Default.aspx
 http://fw.ky.gov/WAP/Pages/Wildlife-Action-Plan-Full.aspx#4.5
@@ -13625,10 +13649,11 @@ http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0308e1
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0308e2
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310a2
+http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310b1
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310b2
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310c1
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310c2
-http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310d1http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310b1
+http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310d1
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310e1
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310f1
 http://gce-lter.marsci.uga.edu/lter/asp/db/send_eml.asp?detail=full&missing=NaN&delimiter=tab&accession=PHY-GCEM-0310f2
@@ -13788,7 +13813,7 @@ http://gcmd.nasa.gov/r/d/B031_wb
 http://gcmd.nasa.gov/r/d/B031_weather
 http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01199
 http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01205
-http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01211http://www.reo.gov/gis/data/gisdata/final_lua/nwfpkws.e00.zip
+http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01211
 http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01212
 http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01221
 http://gcmd.nasa.gov/r/d/[NOAA-NGDC]gov.noaa.ngdc.mgg.photos.G01223
@@ -13865,7 +13890,6 @@ http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-18/cells.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-18/conventional.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-19/cells.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-19/conventional.faq.html
-http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-19/conventional.faq.htmlhttp://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-17/conventional.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-2/cells.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-2/conventional.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/digital-data/30/P-20/cells.faq.html
@@ -13913,7 +13937,7 @@ http://geo-nsdi.er.usgs.gov/metadata/open-file/02-110/metadata.html
 http://geo-nsdi.er.usgs.gov/metadata/open-file/02-136/metadata.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/open-file/02-21/metadata.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/open-file/02-22/metadata.faq.html
-http://geo-nsdi.er.usgs.gov/metadata/open-file/02-5/metadata.faq.htmlhttp://geopubs.wr.usgs.gov/open-file/of02-005/
+http://geo-nsdi.er.usgs.gov/metadata/open-file/02-5/metadata.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/open-file/02-5/metadata.html
 http://geo-nsdi.er.usgs.gov/metadata/open-file/02-6/metadata.faq.html
 http://geo-nsdi.er.usgs.gov/metadata/open-file/02-6/metadata.html
@@ -13932,9 +13956,7 @@ http://geochange.er.usgs.gov/pub/sea_ice/Derived/images/pict/north/02n.pict
 http://geochange.er.usgs.gov/pub/sea_ice/Derived/images/pict/south/02s.pict
 http://geodata.grid.unep.ch
 http://geodata.grid.unep.ch/
-http://geodata.grid.unep.ch/http://geodata.grid.unep.ch/
 http://geodata.grid.unep.ch/results.php
-http://geodata.grid.unep.ch/results.phphttp://www.gsajournals.org/gsaonline/?request=get-abstract&issn=0091-7613&volume=029&issue=02&page=0171
 http://geodiscover.cgdi.ca/
 http://geog.tamu.edu/~liu/research/download.htm
 http://geog.tamu.edu/~liu/research/lambert.htm
@@ -13961,7 +13983,7 @@ http://geogratis.cgdi.gc.ca/contexts/OntarioLandCoverv100.xml
 http://geogratis.cgdi.gc.ca/download/Vector/National/Base_Maps/Frameworks/SGC_CGT/release_notes.pdf
 http://geogratis.cgdi.gc.ca/download/frameworkdata/
 http://geogratis.cgdi.gc.ca/download/frameworkdata/hydrology
-http://geogratis.cgdi.gc.ca/download/frameworkdata/hydrology/analytical/drainage_supplemental/http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
+http://geogratis.cgdi.gc.ca/download/frameworkdata/hydrology/analytical/drainage_supplemental/
 http://geogratis.cgdi.gc.ca/download/frameworkdata/popplace/
 http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/1c90e79b-8271-5baf-b4b4-0c6e718f6544.html
 http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/44b103eb-ab35-58df-8be5-d37eeecbc576.html
@@ -13975,7 +13997,8 @@ http://geol.lsu.edu/Faculty/Bao/
 http://geology.cr.usgs.gov/pub/i-maps/i-2740/i-2740.pdf
 http://geology.cwru.edu/~ansmet/index.html
 http://geology.er.usgs.gov/eespteam/prism/prism3main.html
-http://geology.usgs.gov/index.shtmlhttp://pubs.usgs.gov/dds/dds-058/Front.pdf
+http://geology.er.usgs.gov/eespteam/prism/prism_background.html
+http://geology.usgs.gov/index.shtml
 http://geology.wr.usgs.gov/open-file/of96-252/
 http://geomag.colorado.edu/images/EMAG2/EMAG2.kmz
 http://geomag.colorado.edu/images/EMAG2/EMAG2_V2.grd
@@ -14515,6 +14538,7 @@ http://gis.massey.landcare.cri.nz/rsr/soils/
 http://gis.mpa.gov/website/mma/run.htm
 http://gis.nacse.org/ihnv/
 http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00815
+http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00821
 http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00822
 http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00823
 http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00824
@@ -14732,7 +14756,6 @@ http://globec.whoi.edu/jg/dir/globec/nep/ccs/ltop/
 http://globec.whoi.edu/jg/dir/globec/nep/ccs/process/
 http://globec.whoi.edu/jg/dir/globec/soglobec
 http://globec.whoi.edu/jg/dir/globec/soglobec/
-http://globec.whoi.edu/jg/dir/globec/soglobec/http://www.bco-dmo.org/dataset/2361
 http://globec.whoi.edu/jg/serv/globec/nep/cgoa/ltop/WP2_meta.html1%7Bdir=globec.whoi.edu/jg/dir/globec/nep/cgoa/ltop/,info=globec.whoi.edu:80/jg/info/globec/nep/cgoa/ltop/WP2_meta%7D?cruiseid%20eq%20GP0207
 http://globec.whoi.edu/jg/serv/globec/nep/cgoa/ltop/bongo_catch.html0%7Bdir=globec.whoi.edu/jg/dir/globec/nep/cgoa/ltop/,info=globec.whoi.edu:80/jg/info/globec/nep/cgoa/ltop/bongo_catch%7D?
 http://globec.whoi.edu/jg/serv/globec/nep/cgoa/ltop/calvet_ak_ltop.html0%7Bdir=globec.whoi.edu/jg/dir/globec/nep/cgoa/ltop/,info=globec.whoi.edu:80/jg/info/globec/nep/cgoa/ltop/calvet_ak_ltop%7D?
@@ -14757,7 +14780,6 @@ http://glovis.usgs.gov
 http://glovis.usgs.gov/
 http://gmao.gsfc.nasa.gov/
 http://gmao.gsfc.nasa.gov/operations/
-http://gmao.gsfc.nasa.gov/operations/http://www.esri.com/mapmuseum/mapbook_gallery/volume18/agriculture2.html
 http://gmao.gsfc.nasa.gov/projects/osse/
 http://gmao.gsfc.nasa.gov/research/oceanbiology/references.php
 http://gmbis.marinebiodiversity.ca/aconw95/aconscripts/SQLMap.acn?datacache=../../ARC_data
@@ -14778,7 +14800,7 @@ http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA/MAT3NVCHM.5.2.0/doc/MERRA.REA
 http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_DIURNAL/MATUFXCHM.5.2.0/
 http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_DIURNAL/MATUFXCHM.5.2.0/doc/MERRA.README.pdf
 http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_MONTHLY/MAC0FXCHM.5.2.0/
-http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_MONTHLY/MAC0FXCHM.5.2.0/doc/MERRA.README.pdfhttp://disc.sci.gsfc.nasa.gov/MERRA/images/MSC0NXMLD_5_2_0.png
+http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_MONTHLY/MAC0FXCHM.5.2.0/doc/MERRA.README.pdf
 http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_MONTHLY/MATMFXCHM.5.2.0/
 http://goldsmr1.gesdisc.eosdis.nasa.gov/data/MERRA_MONTHLY/MATMFXCHM.5.2.0/doc/MERRA.README.pdf
 http://goldsmr1.gesdisc.eosdis.nasa.gov/dods/MAC0FXCHM.info
@@ -15086,7 +15108,7 @@ http://goldsmr1.sci.gsfc.nasa.gov/data/s4pa/MERRAOBS_MONTHLY/MA_SSU_TIROSN_OBS.0
 http://goldsmr1.sci.gsfc.nasa.gov/data/s4pa/MERRAOBS_MONTHLY/MA_SSU_TIROSN_OMA.001/
 http://goldsmr1.sci.gsfc.nasa.gov/data/s4pa/MERRAOBS_MONTHLY/MA_SSU_TIROSN_OMA.001/doc/MERRAOBS.README.pdf
 http://goldsmr1.sci.gsfc.nasa.gov/data/s4pa/MERRAOBS_MONTHLY/MA_SSU_TIROSN_OMF.001/
-http://goldsmr1.sci.gsfc.nasa.gov/data/s4pa/MERRAOBS_MONTHLY/MA_SSU_TIROSN_OMF.001/doc/MERRAOBS.README.pdfhttp://geodata.grid.unep.ch/
+http://goldsmr1.sci.gsfc.nasa.gov/data/s4pa/MERRAOBS_MONTHLY/MA_SSU_TIROSN_OMF.001/doc/MERRAOBS.README.pdf
 http://goldsmr2.gesdisc.eosdis.nasa.gov/data/AtrainMERRA/MAT1NXRAD_CPR.5.2.0/
 http://goldsmr2.gesdisc.eosdis.nasa.gov/data/AtrainMERRA/MAT1NXRAD_CPR.5.2.0/doc/MERRA.README.pdf
 http://goldsmr2.gesdisc.eosdis.nasa.gov/data/AtrainMERRA/MAT1NXSLV_CPR.5.2.0/
@@ -15610,7 +15632,7 @@ http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPODT.5.12.4/doc
 http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPQDT.5.12.4/
 http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPQDT.5.12.4/doc/MERRA2.README.pdf
 http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPRAD.5.12.4/
-http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPRAD.5.12.4/doc/MERRA2.README.pdfhttp://disc.sci.gsfc.nasa.gov/MERRA-2/images/M2TMNPTDT.png
+http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPRAD.5.12.4/doc/MERRA2.README.pdf
 http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPTDT.5.12.4/
 http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPTDT.5.12.4/doc/MERRA2.README.pdf
 http://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2_MONTHLY/M2TMNPTRB.5.12.4/
@@ -15707,7 +15729,6 @@ http://gong.nso.edu/data/
 http://goos.kishou.go.jp/rrtdb/database.html
 http://gosic.org
 http://gosic.org/goos/CPR-data-access.htm
-http://gosic.orghttp://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=strain_grid_lawdome_1981
 http://gosweb.artov.isac.cnr.it/
 http://gozcards.jpl.nasa.gov/
 http://gpcc.dwd.de/
@@ -16052,6 +16073,7 @@ http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5401046
 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5401046&tag=1
 http://igs.ensg.ign.fr/date_tool.php?new=1
 http://igscb.jpl.nasa.gov/
+http://igscb.jpl.nasa.gov/components/compindex.html
 http://igscb.jpl.nasa.gov/components/data.html
 http://igscb.jpl.nasa.gov/components/prods_cb.html
 http://igscb.jpl.nasa.gov/components/usage.html
@@ -16091,6 +16113,7 @@ http://ingrid.ldeo.columbia.edu/SOURCES/.CAC/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.CARDONE/
 http://ingrid.ldeo.columbia.edu/SOURCES/.CARDONE/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.CAYAN/
+http://ingrid.ldeo.columbia.edu/SOURCES/.CAYAN/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.CDIAC/
 http://ingrid.ldeo.columbia.edu/SOURCES/.CDIAC/.tr051/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.ECMWF/
@@ -16129,7 +16152,7 @@ http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.Darwin/
 http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.Darwin/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.Easter/
 http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.Easter/dods
-http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.india/http://polaris.nipr.ac.jp/~asi-dp/
+http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.india/
 http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.nino/.EXTENDED/
 http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.nino/.KAPLAN/
 http://ingrid.ldeo.columbia.edu/SOURCES/.Indices/.nino/.NCEP/
@@ -16147,7 +16170,7 @@ http://ingrid.ldeo.columbia.edu/SOURCES/.KAPLAN/.RSA_COADS_SLP1.cuf/
 http://ingrid.ldeo.columbia.edu/SOURCES/.KAPLAN/.RSA_COADS_SLP1.cuf/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.KAPLAN/.RSA_COADS_SLPold.cuf/.era/
 http://ingrid.ldeo.columbia.edu/SOURCES/.KAPLAN/.RSA_COADS_SLPold.cuf/.era/dods
-http://ingrid.ldeo.columbia.edu/SOURCES/.KAPLAN/.TGsm.cdf/dodshttp://www.fws.gov/r5gomp/gom/cv/nwr_metadata/kbbbnd.htm
+http://ingrid.ldeo.columbia.edu/SOURCES/.KAPLAN/.TGsm.cdf/dods
 http://ingrid.ldeo.columbia.edu/SOURCES/.LDEO/.Takahashi/.dataset_documentation.html
 http://ingrid.ldeo.columbia.edu/SOURCES/.Models/
 http://ingrid.ldeo.columbia.edu/SOURCES/.Models/dods
@@ -16562,6 +16585,7 @@ http://ipt.biodiversity.aq/resource.do?r=gbase
 http://ipt.biodiversity.aq/resource.do?r=geothermal_fumarole_subsurface_mt_erebus_antarctica
 http://ipt.biodiversity.aq/resource.do?r=ictar_ivscs
 http://ipt.biodiversity.aq/resource.do?r=ictar_nztabs
+http://ipy.antarcticanz.govt.nz/projects/southern-victoria-land-geology/
 http://ipy.arcticportal.org/events/details/23
 http://ipy.smhi.se/thredds/catalog/IPY/Beringia2005-Oden/catalog.html
 http://ipy.smhi.se/thredds/catalog/IPY/CHIRP-ODEN96/catalog.html
@@ -16711,7 +16735,7 @@ http://lasp.colorado.edu/see/
 http://lasp.colorado.edu/snoedata/
 http://lasp.colorado.edu/sorce/
 http://lba.cptec.inpe.br/lba/prelba/abracos/index.html
-http://lcweb2.loc.gov/ammem/ammemhome.htmlhttp://www.aoncadis.org/dataset/id/f35faa56-00bc-11e1-9f20-00c0f03d5b7c.html
+http://lcweb2.loc.gov/ammem/ammemhome.html
 http://ldas.gsfc.nasa.gov/
 http://ldas.gsfc.nasa.gov/FLDAS/
 http://ldas.gsfc.nasa.gov/NCA-LDAS/
@@ -16836,6 +16860,7 @@ http://maps.grida.no/go/graphic/barents_region_and_the_surrounding_seas
 http://maps.grida.no/go/graphic/co2_emissions_from_consumption_and_flaring_of_fossil_fuels
 http://maps.grida.no/go/graphic/greenland_denmark_ice_cap_topography_and_bathymetry
 http://maps.grida.no/go/graphic/land_cover_baltic_sea_region_balans_
+http://maps.grida.no/go/graphic/nordic_countries_indigenous_population
 http://maps.grida.no/go/graphic/wetlands_in_the_baltic_sea_drainage_basin_balans
 http://maps.grida.no/go/graphic/wilderness_in_norway_1900_1992
 http://maps.massgis.state.ma.us/czm/moris/metadata/
@@ -16940,7 +16965,7 @@ http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N17L2.1/doc/README.SBUVL
 http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N17L3zm.1/
 http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N17L3zm.1/doc/README.SBUVL3MZM.pdf
 http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N18L2.1/
-http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N18L2.1/doc/README.SBUVL2.pdfhttp://disc.sci.gsfc.nasa.gov/measures/Ozone/images/SBUV2N18L2.png
+http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N18L2.1/doc/README.SBUVL2.pdf
 http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N18L3zm.1/
 http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N18L3zm.1/doc/README.SBUVL3MZM.pdf
 http://measures.gesdisc.eosdis.nasa.gov/data/Ozone/SBUV2N19L2.1/
@@ -17156,11 +17181,12 @@ http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_TAMU_tamu_dmb_cr_d_3biology.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20GulfCet%20AND%20(%20datasource%20:(%20csas%20%20)%20)%20&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_TAMU_tamu_dmb_cr_d_4visualair.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20GulfCet%20AND%20(%20datasource%20:(%20csas%20%20)%20)%20&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_USGS_FCSC_usgs_brd_fcsc_d_sirenia.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20An%20Automated%20Photo-identification%20Catalog%20for%20Studies%20of%20the%20Life%20History%20of%20the%20Florida%20Manatee&ds_id=
-http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_fort_d_261.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20Southern%20Rocky%20Mountains%20ARMI%20(Amphibian%20Research%20and%20Monitoring%20Initiative)&ds_id=http://ipy.antarcticanz.govt.nz/projects/southern-victoria-land-geology/
+http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_fort_d_261.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20Southern%20Rocky%20Mountains%20ARMI%20(Amphibian%20Research%20and%20Monitoring%20Initiative)&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_USGS_NPWRC_usgs_brd_npwrc_t_nestfile.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20northern%20prairie%20wildlife%20research%20center&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_USGS_PWRC_brdpwrc0001.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20North%20American%20Bird%20Banding%20Retrieval%20Files&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/csas/harvested/www1.usgs.gov_metadata_mdata_USGS_WFRC_brdwfrc0001.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20White%20Sturgeon%20Habitat%20in%20the%20Lower%20Columbia%20River&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/frames/harvested/www.nbii.gov_metadata_mdata_frames_nbii_frames_d_cerrogrande.xml&full_datasource=Fire%20Research%20and%20Management%20Exchange%20System%20(FRAMES)&full_queryString=%202000%20Cerro%20Grande%20Wildfire%20study&ds_id=
+http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/fresc/harvested/fresc.usgs.gov_bdpmetadata_FRE00668.xml&full_datasource=Forest%20and%20Rangeland%20Ecosystem%20Science%20Center%20Metadata%20Node&full_queryString=%20earnst%20AND%20(%20datasource%20:(%20fresc%20%20)%20)%20&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/fresc/harvested/fresc.usgs.gov_bdpmetadata_FRE00670.xml&full_datasource=Forest%20and%20Rangeland%20Ecosystem%20Science%20Center%20Metadata%20Node&full_queryString=%20invasive%20crayfish&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/gds/harvested/geo-nsdi.er.usgs.gov_waf_other_agu-jgr-100-d5_metadata.xml&full_datasource=USGS%20Geoscience%20Data%20Catalog&full_queryString=%20Dust%20Deposition%20in%20Southern%20Nevada%20and%20California&ds_id=
 http://mercury-ops2.ornl.gov/clearinghouse/send/xsltText2?fileURL=/data/Mercury_instances/clearinghouse/nfhp/harvested/www1.usgs.gov_metadata_mdata_USGS_CoreScienceSystems_CSAS_Programs_USGS_NFHP_Coastal_Habitat_Condition_Indicies_for_the_Entire_US.xml&full_datasource=National%20Fish%20Habitat%20Partnership&full_queryString=%20NFHAP%20Coastal%20Assessment%20-%20Coastal%20Habitat%20Condition%20Index%20Scores&ds_id=
@@ -17223,7 +17249,7 @@ http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_inst
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed07.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Kalama+text+%3A+Chemical%2C+text+%3A+Inc.+text+%3A+Class+text+%3A+II+text+%3A+Inspection%2C+text+%3A+May+text+%3A+1988&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed08.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Reynolds+text+%3A+Metal+text+%3A+Company+text+%3A+Class+text+%3A+II+text+%3A+Inspection&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed09.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Effect+text+%3A+of+text+%3A+Mining+AND+text+%3A+Related+text+%3A+Activities+text+%3A+on+text+%3A+the+text+%3A+Sediment+text+%3A+Trace+text+%3A+Element+text+%3A+Geochemistry+text+%3A+of+text+%3A+Lake+text+%3A+Coeur+text+%3A+d%27Alene%2C+text+%3A+Idaho&ds_id=
-http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed11.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Class+text+%3A+II+text+%3A+Inspection+text+%3A+of+text+%3A+the+text+%3A+Boise+text+%3A+Cascade+text+%3A+Pulp+AND+text+%3A+Paper+text+%3A+Mill%2C+text+%3A+Wallula%2C+text+%3A+Washington&ds_id=http://www.mass.gov/czm/czm.htm
+http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed11.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Class+text+%3A+II+text+%3A+Inspection+text+%3A+of+text+%3A+the+text+%3A+Boise+text+%3A+Cascade+text+%3A+Pulp+AND+text+%3A+Paper+text+%3A+Mill%2C+text+%3A+Wallula%2C+text+%3A+Washington&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed12.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Screening+text+%3A+Survey+text+%3A+for+text+%3A+Chemical+text+%3A+Contaminants+AND+text+%3A+Toxicity+text+%3A+in+text+%3A+Sediments+text+%3A+at+text+%3A+Five+text+%3A+Lower+text+%3A+Columbia+text+%3A+River+text+%3A+Ports+text+%3A+September+text+%3A+22-24%2C+text+%3A+1987.&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed20.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Surface-water+text+%3A+Quality+text+%3A+Assessment+text+%3A+of+text+%3A+the+text+%3A+Yakima+text+%3A+River+text+%3A+Basin+text+%3A+in+text+%3A+Washington%5C%3A+text+%3A+Chemical+text+%3A+Analyses+text+%3A+of+text+%3A+Major%2C+text+%3A+Minor+AND+text+%3A+Trace+text+%3A+Elements+text+%3A+in+text+%3A+Fine-Grained+text+%3A+Sediment.&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_FORT_usgs_brd_best_d_sed28.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Old+text+%3A+Mouth+text+%3A+of+text+%3A+the+text+%3A+Cowlitz+text+%3A+River+text+%3A+Sediment+text+%3A+Evaluation&ds_id=
@@ -17255,6 +17281,7 @@ http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_inst
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_odwrir004062.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Phosphorus+AND+text+%3A+E.coli+text+%3A+in+text+%3A+the+text+%3A+Fanno+AND+text+%3A+Bronson+text+%3A+Creek+text+%3A+Subbasins+text+%3A+of+text+%3A+the+text+%3A+Tualatin+text+%3A+River+text+%3A+Basin%2C+text+%3A+Oregon%2C+text+%3A+During+text+%3A+Summer+text+%3A+Low-Flow+text+%3A+Conditions%2C+text+%3A+1996.&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_odwrir004092.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+The+text+%3A+Effect+text+%3A+of+text+%3A+Calcium+text+%3A+Magnesium+text+%3A+Acetate+%28+text+%3A+CMA+%29+text+%3A+Deicing+text+%3A+Material+text+%3A+on+text+%3A+the+text+%3A+Water+text+%3A+Quality+text+%3A+of+text+%3A+Bear+text+%3A+Creek%2C+text+%3A+Clackamas+text+%3A+County%2C+text+%3A+Oregon%2C1999&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_odwrir994196.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Inorganic+text+%3A+Chemistry+text+%3A+of+text+%3A+Water+AND+text+%3A+Bed+text+%3A+Sediment+text+%3A+in+text+%3A+Selected+text+%3A+Tributaries+text+%3A+of+text+%3A+the+text+%3A+South+text+%3A+Umpqua+text+%3A+River%2C+text+%3A+Oregon%2C+text+%3A+1998&ds_id=
+http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_wrir984105.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Major-Ion%2C+text+%3A+Nutrient%2C+AND+text+%3A+Trace-Element+text+%3A+Concentrations+text+%3A+in+text+%3A+the+text+%3A+Steamboat+text+%3A+Creek+text+%3A+Basin&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_wrir994036.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+WRIR+text+%3A+99-4036-Ground-Water+AND+text+%3A+Water-Chemistry+text+%3A+Data+text+%3A+for+text+%3A+the+text+%3A+Willamette+text+%3A+Basin%2C+text+%3A+Oregon&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_wrir994051.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Investigation+text+%3A+of+text+%3A+the+text+%3A+Distribution+text+%3A+of+text+%3A+Organochlorine+AND+text+%3A+Polycyclic+text+%3A+Aromatic+text+%3A+Hydrocarbon+text+%3A+Compounds+text+%3A+in+text+%3A+the+text+%3A+Lower+text+%3A+Columbia+text+%3A+River&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_wrir994107.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Selected+text+%3A+Elements+AND+text+%3A+Organic+text+%3A+Chemicals+text+%3A+in+text+%3A+Bed+text+%3A+Sediment+AND+text+%3A+Fish+text+%3A+Tissue+text+%3A+of+text+%3A+the+text+%3A+Tualatin+text+%3A+River+text+%3A+Basin%2C+text+%3A+Oregon%2C+text+%3A+1992-96.&ds_id=
@@ -17280,7 +17307,7 @@ http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instance
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_CSIRO_csiro_d_abaynearshorefish9192.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Albatross%20text%20:%20Bay%20text%20:%20Nearshore%20text%20:%20Fish%20text%20:%20Study%20text%20:%201991-1992&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_CSIRO_csiro_d_abaynutrients92.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Albatross%20text%20:%20Bay%20text%20:%20Nutrient%20text%20:%20Data%20text%20:%201992&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_CSIRO_csiro_d_abayprawnlarva.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Albatross%20text%20:%20Bay%20text%20:%20Prawn%20text%20:%20Larval%20text%20:%20Data&ds_id=
-http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_CSIRO_csiro_d_ausfishmaps.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Australian%20text%20:%20Fish%20text%20:%20Species%20text%20:%20Distribution%20text%20:%20Maps&ds_id=http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=857
+http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_CSIRO_csiro_d_ausfishmaps.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Australian%20text%20:%20Fish%20text%20:%20Species%20text%20:%20Distribution%20text%20:%20Maps&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_ECTI_ecti_d_brid.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Bird%20text%20:%20Remains%20text%20:%20Identification&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_ECTI_ecti_d_seaweedcult.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20Cultivation%20AND%20text%20:%20Farming%20text%20:%20of%20text%20:%20Marine%20text%20:%20Plants&ds_id=
 http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_FAO_fao_d_aquastat.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%20AQUASTAT%20text%20:%20Database&ds_id=
@@ -17368,7 +17395,6 @@ http://mercury.ornl.gov/metadata/nbii/xml/csas/www1.usgs.gov_metadata_mdata_SAR_
 http://mercury.ornl.gov/metadata/nbii/xml/nbii/www1.usgs.gov_metadata_mdata_NBII_SAIN_nbii_sain_d_invsvplant.xml
 http://mercury.ornl.gov/metadata/usgs/xml/fresc/fresc.usgs.gov_bdpmetadata_cfer0298.xml
 http://mercury.ornl.gov/metadata/usgs/xml/fresc/fresc.usgs.gov_bdpmetadata_fre00366.xml
-http://mercury.ornl.gov/nbii/
 http://meta2.isric.org/geonetwork?uuid=82f3d6b0-a045-4fe2-b960-6d05bc1f37c0
 http://meta2.isric.org/geonetwork?uuid=ec935445-72d3-4dc1-affc-75a3fbb1f96b
 http://metacat.lternet.edu/knb/metacat/knb-lter-nwt.151.2/lter
@@ -17846,6 +17872,7 @@ http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OML1BRUZ
 http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OML1BRVG
 http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OML1BRVZ
 http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OMLER
+http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OMMYDAGEO+003
 http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OMMYDCLD+003
 http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OMNO2
 http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=OMNO2G
@@ -17987,7 +18014,6 @@ http://modis-land.gsfc.nasa.gov/)
 http://modis.gsfc.nasa.gov/data/atbd/atbd_mod13.pdf
 http://modis.gsfc.nasa.gov/data/atbd/atbd_mod25.pdf
 http://modis.gsfc.nasa.gov/sci_team/
-http://modis.gsfc.nasa.gov/sci_team/https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/modis-nrt
 http://moist.rm.ingv.it/sites/iberian_margin/1/LIDO1/adcp/17
 http://moist.rm.ingv.it/sites/iberian_margin/1/LIDO1/ctd/16
 http://moist.rm.ingv.it/sites/iberian_margin/1/LIDO1/ctd/16/dataset/plot
@@ -18060,6 +18086,7 @@ http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/imu/45
 http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/pressure_gauge/37
 http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/pressure_gauge/37/dataset/plot
 http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/scalar_magnetometer/39
+http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/scalar_magnetometer/39/dataset/plot
 http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/seismometer/35
 http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/vector_magnetometer/40
 http://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/vector_magnetometer/40/dataset/plot
@@ -18068,56 +18095,7 @@ http://motherlode.ucar.edu/repository/entry/show/RAMADDA/Data/IDD+Data/decoded/n
 http://motherlode.ucar.edu/repository/entry/show/RAMADDA/Data/IDD+Data/native/grid/NCEP
 http://motherlode.ucar.edu/repository/entry/show/RAMADDA/Data/IDD+Data/native/nwstg/text
 http://motherlode.ucar.edu/thredds/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/CONUS_191km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/CONUS_191km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/CONUS_80km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/CONUS_80km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/CONUS_95km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/CONUS_95km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Global_0p5deg/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Global_0p5deg/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Global_2p5deg/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Global_2p5deg/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Global_onedeg/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Global_onedeg/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/N_Hemisphere_381km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/N_Hemisphere_381km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Puerto_Rico_191km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/GFS/Puerto_Rico_191km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_11km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_11km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_22km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_22km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_45km/conduit/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_45km/conduit/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_45km/noaaport/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Alaska_45km/noaaport/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_12km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_12km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_20km/noaaport/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_20km/noaaport/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_20km/selectsurface/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_20km/selectsurface/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_40km/conduit/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_40km/conduit/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_80km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/CONUS_80km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Polar_90km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NAM/Polar_90km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NDFD/CONUS_5km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/NDFD/CONUS_5km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC/CONUS_80km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC/CONUS_80km/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_20km/hybrid/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_20km/hybrid/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_20km/pressure/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_20km/pressure/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_20km/surface/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_20km/surface/catalog.xml
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_40km/catalog.html
-http://motherlode.ucar.edu:8080/thredds/catalog/fmrc/NCEP/RUC2/CONUS_40km/catalog.xml
 http://motherlode.ucar.edu:8080/thredds/catalogServices?catalog=http://motherlode.ucar.edu:8080/thredds/idd/models.xml
-http://motherlode.ucar.edu:8088/thredds/catalog.html?cmd=subset&catalog=http://motherlode.ucar.edu:8088/thredds/idd/models.xml&dataset=NCEP/NAM/Q
 http://mplnet.gsfc.nasa.gov/data.html
 http://mrcc.isws.illinois.edu/
 http://mrcc.sws.uiuc.edu/
@@ -18153,8 +18131,6 @@ http://nationalmap.gov/alaska/
 http://nationalmap.gov/alaska/about_ak_excomm.html
 http://nationalmap.gov/viewer.html
 http://nature.org/wherewework/northamerica/states/florida/preserves/art5523.html
-http://nature.org/wherewework/northamerica/states/florida/preserves/art5523.htmlhttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4481
-http://nature.org/wherewework/northamerica/states/florida/preserves/art5523.htmlhttp://maps.grida.no/go/graphic/nordic_countries_indigenous_population
 http://nature.org/wherewework/northamerica/states/tennessee/
 http://nautilus.baruch.sc.edu/rs/
 http://nautilus.mathstat.dal.ca/
@@ -18397,6 +18373,7 @@ http://nsidc.org/data/G01938.html
 http://nsidc.org/data/G01961.html
 http://nsidc.org/data/G01962.html
 http://nsidc.org/data/G02130.html
+http://nsidc.org/data/IR2HI2/versions/1
 http://nsidc.org/data/IRKUB1B/versions/2
 http://nsidc.org/data/IRMCR1B/versions/2
 http://nsidc.org/data/IRMCR2/versions/1
@@ -18485,7 +18462,6 @@ http://nsidc.org/data/amsre
 http://nsidc.org/data/amsre/
 http://nsidc.org/data/amsre/data-quality/
 http://nsidc.org/data/amsre/data-quality/index.html
-http://nsidc.org/data/amsre/http://nsidc.org/data/amsre/data-quality/index.html
 http://nsidc.org/data/amsre/index.html
 http://nsidc.org/data/amsre/order.html
 http://nsidc.org/data/amsre/versions/3
@@ -18640,6 +18616,7 @@ http://nsidc.org/data/docs/daac/nsidc0060_soviet_rawinsonde.gd.html
 http://nsidc.org/data/docs/daac/nsidc0063_freeze_thaw_indices.gd.html
 http://nsidc.org/data/docs/daac/nsidc0064_nenana.gd.html
 http://nsidc.org/data/docs/daac/nsidc0066_avhrr_5km.gd.html
+http://nsidc.org/data/docs/daac/nsidc0071_smmr_ease_tbs.gd.html
 http://nsidc.org/data/docs/daac/nsidc0072_canadian_precip/comparison.html
 http://nsidc.org/data/docs/daac/nsidc0075_geosat.gd.html
 http://nsidc.org/data/docs/daac/nsidc0077_esmr_tbs.gd.html
@@ -18722,7 +18699,7 @@ http://nsidc.org/data/docs/daac/nsidc0277_smex_wc_vitel.gd.html
 http://nsidc.org/data/docs/daac/nsidc0278_smex02_soilsdb.gd.html
 http://nsidc.org/data/docs/daac/nsidc0287_smex03_reg_gsm_al.gd.html
 http://nsidc.org/data/docs/daac/nsidc0288_smex03_reg_gsm_ga.gd.html
-http://nsidc.org/data/docs/daac/nsidc0289_smex03_reg_gsm_ok.gd.htmlftp://sidads.colorado.edu/pub/DATASETS/AVDM/data/soil_moisture/SMEX03/Alabama/ancillary_data/photographs/
+http://nsidc.org/data/docs/daac/nsidc0289_smex03_reg_gsm_ok.gd.html
 http://nsidc.org/data/docs/daac/nsidc0291_clpx_ncar_analyses/CLPX-MM5-500mModelingMSAs1-3.Poulos.Nov06.pdf
 http://nsidc.org/data/docs/daac/nsidc0293_smex03_scan_al.gd.html
 http://nsidc.org/data/docs/daac/nsidc0294_smex03_scan_ga.gd.html
@@ -19044,7 +19021,7 @@ http://nsidc.org/data/g01111.html
 http://nsidc.org/data/g01130.html
 http://nsidc.org/data/g01169.html
 http://nsidc.org/data/g01175.html
-http://nsidc.org/data/g01358.htmlhttp://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
+http://nsidc.org/data/g01358.html
 http://nsidc.org/data/g01359.html
 http://nsidc.org/data/g01360.html
 http://nsidc.org/data/g01938.html
@@ -19152,7 +19129,7 @@ http://nsidc.org/data/nsidc-0036.html
 http://nsidc.org/data/nsidc-0046.html
 http://nsidc.org/data/nsidc-0050.html
 http://nsidc.org/data/nsidc-0051.html
-http://nsidc.org/data/nsidc-0057.htmlhttp://igscb.jpl.nasa.gov/components/compindex.html
+http://nsidc.org/data/nsidc-0057.html
 http://nsidc.org/data/nsidc-0059.html
 http://nsidc.org/data/nsidc-0060.html
 http://nsidc.org/data/nsidc-0064.html
@@ -19247,6 +19224,7 @@ http://nsidc.org/data/nsidc-0347/versions/1/documentation
 http://nsidc.org/data/nsidc-0349/versions/1/documentation
 http://nsidc.org/data/nsidc-0350/versions/1/documentation
 http://nsidc.org/data/nsidc-0351/versions/1/documentation
+http://nsidc.org/data/nsidc-0352/versions/1/documentation
 http://nsidc.org/data/nsidc-0353/versions/1/documentation
 http://nsidc.org/data/nsidc-0354/versions/1/documentation
 http://nsidc.org/data/nsidc-0356/versions/1/documentation
@@ -19666,14 +19644,14 @@ http://oos.soest.hawaii.edu/erddap/tabledap/Aa.graph
 http://oos.soest.hawaii.edu/erddap/tabledap/Aa2.graph
 http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_BLT
 http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_BLT.html
+http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_SPC
 http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_SPC.html
-http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_SPChttp://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00782
 http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_nSPC
 http://oos.soest.hawaii.edu/erddap/tabledap/CRED_FISH_nSPC.html
 http://oos.soest.hawaii.edu/erddap/tabledap/NC2.graph
 http://oos.soest.hawaii.edu/erddap/tabledap/PACN_FISH_SURVEYS
 http://oos.soest.hawaii.edu/erddap/tabledap/PACN_FISH_SURVEYS.html
-http://oos.soest.hawaii.edu/erddap/tabledap/PACN_FISH_TRANSECThttp://www.meds-sdmm.dfo-mpo.gc.ca/post/directLogin.do
+http://oos.soest.hawaii.edu/erddap/tabledap/PACN_FISH_TRANSECT
 http://oos.soest.hawaii.edu/erddap/tabledap/PMNM_FISH_BLT
 http://oos.soest.hawaii.edu/erddap/tabledap/PMNM_FISH_BLT.html
 http://oos.soest.hawaii.edu/erddap/tabledap/PMNM_FISH_nSPC
@@ -20531,7 +20509,6 @@ http://pmm.nasa.gov/node/340
 http://pmm.nasa.gov/science/ground-validation/C3VP/
 http://pmm.nasa.gov/science/ground-validation/D3R
 http://po.daac.jpl.nasa.gov/mcsst
-http://po.daac.jpl.nasa.gov/mcsstftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR17_L/NAVO
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/amsre/L3/sst_1deg_1mo/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/aquarius/L2/CAPv4/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/aquarius/L2/V4/
@@ -20763,6 +20740,7 @@ http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/4km/monthly
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/9km/8day/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/9km/annual/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/9km/daily/
+http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/9km/monthly/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/v2014.0/4km/8day/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/v2014.0/4km/annual/
 http://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/v2014.0/4km/daily/
@@ -21105,6 +21083,7 @@ http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-TPSDR-BIN0A&apido
 http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-TPSHA-BIN02
 http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-USWCO-ALT01&apidoc
 http://podaac.jpl.nasa.gov:2031/DATASET_DOCS/avhrr_navoceano.html
+http://polaris.nipr.ac.jp/~asi-dp/
 http://polaris.nipr.ac.jp/~aurora/optical.obs/SyowaAuroraObsTop.html
 http://polaris.nipr.ac.jp/~aurora/syowa.magne/magne.main.html
 http://polaris.nipr.ac.jp/~aurora/uapm/ConjugateObsTop.html
@@ -21178,7 +21157,7 @@ http://projects.knmi.nl/omi/research/instrument/index.php
 http://projects.knmi.nl/omi/research/product/index.php
 http://projects.knmi.nl/scatterometer/ascat_osi_12_prod/
 http://promote.fmi.fi/OMUVB/AGU2005_poster_OMUVB.pdf
-http://protist.biology.washington.edu/sidor/Lab/Home.htmlhttps://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=519
+http://protist.biology.washington.edu/sidor/Lab/Home.html
 http://proyectolucifer.blogspot.com
 http://psc.apl.uw.edu/research/projects/projections-of-an-ice-diminished-arctic-ocean/
 http://psc.apl.washington.edu/Climatology.html
@@ -21198,6 +21177,7 @@ http://pubs.er.usgs.gov/publication/fs20123100
 http://pubs.er.usgs.gov/usgspubs/wri/wri974079
 http://pubs.usgs.gov/atlas/geologic/
 http://pubs.usgs.gov/dds/dds-057/DDS57.pdf
+http://pubs.usgs.gov/dds/dds-058/Front.pdf
 http://pubs.usgs.gov/dds/dds-059/#Data%20Download...
 http://pubs.usgs.gov/dds/dds-059/dbdoc.htm
 http://pubs.usgs.gov/dds/dds-060/
@@ -21520,6 +21500,7 @@ http://pubs.usgs.gov/of/2002/ofr02-266/
 http://pubs.usgs.gov/of/2002/ofr02-266/pdf/ofr02-266.pdf
 http://pubs.usgs.gov/of/2003/0006/
 http://pubs.usgs.gov/of/2003/0006/appndx_grav.txt
+http://pubs.usgs.gov/of/2003/0006/pdf/of03-6.pdf
 http://pubs.usgs.gov/of/2003/0096/valjean_geo.e00
 http://pubs.usgs.gov/of/2003/0096/valjean_meta.txt
 http://pubs.usgs.gov/of/2003/0096/valjean_str.e00
@@ -21534,6 +21515,7 @@ http://pubs.usgs.gov/of/2003/of03-080/html/nj_boug.htm
 http://pubs.usgs.gov/of/2003/of03-108/html/fig9.html
 http://pubs.usgs.gov/of/2003/of03-108/html/results.htm
 http://pubs.usgs.gov/of/2003/of03-150/html/SEISMIC.HTM
+http://pubs.usgs.gov/of/2003/of03-221
 http://pubs.usgs.gov/of/2003/of03-241/htmldocs/data_files.html
 http://pubs.usgs.gov/of/2003/of03-241/htmldocs/lisnybmeta.htm
 http://pubs.usgs.gov/of/2003/ofr-03-065/OFR-03-065-508.pdf
@@ -21557,6 +21539,7 @@ http://pubs.usgs.gov/of/2004/1020/html/fig5.html
 http://pubs.usgs.gov/of/2004/1020/html/results.htm
 http://pubs.usgs.gov/of/2004/1021/html/cvi.htm
 http://pubs.usgs.gov/of/2004/1021/html/results.htm
+http://pubs.usgs.gov/of/2004/1026/geochem_3.htm
 http://pubs.usgs.gov/of/2004/1026/geochem_4.htm
 http://pubs.usgs.gov/of/2004/1026/pdf/OFR2004-1026_text.pdf
 http://pubs.usgs.gov/of/2004/1027/
@@ -21566,6 +21549,7 @@ http://pubs.usgs.gov/of/2004/1030/pdf/ofr2004-1030.pdf
 http://pubs.usgs.gov/of/2004/1038/OF-04-1038.pdf
 http://pubs.usgs.gov/of/2004/1039/ofr1039.pdf
 http://pubs.usgs.gov/of/2004/1054/
+http://pubs.usgs.gov/of/2004/1058/of2004-1058.pdf
 http://pubs.usgs.gov/of/2004/1059/2004-1059.pdf
 http://pubs.usgs.gov/of/2004/1062/of2004-1062.pdf
 http://pubs.usgs.gov/of/2004/1064/html/results.htm
@@ -21666,7 +21650,7 @@ http://pubs.usgs.gov/of/2005/1229/downloads/
 http://pubs.usgs.gov/of/2005/1229/pdf/OFR1229.pdf
 http://pubs.usgs.gov/of/2005/1235/data.zip
 http://pubs.usgs.gov/of/2005/1235/of2005-1235.pdf
-http://pubs.usgs.gov/of/2005/1253/pdf/OFR1253.pdfhttp://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d%3A%5Cmercury_instances%5Cusgs%5Ccsas%5Charvested%5Cwww1.usgs.gov_metadata_mdata_USGS_WRD_usgs_wrd_or_d_wrir984105.xml&full_datasource=Metadata+Clearinghouse+Principal+Node&full_queryString=+text+%3A+Major-Ion%2C+text+%3A+Nutrient%2C+AND+text+%3A+Trace-Element+text+%3A+Concentrations+text+%3A+in+text+%3A+the+text+%3A+Steamboat+text+%3A+Creek+text+%3A+Basin&ds_id=
+http://pubs.usgs.gov/of/2005/1253/pdf/OFR1253.pdf
 http://pubs.usgs.gov/of/2005/1264/pdf/OFR-1264.pdf
 http://pubs.usgs.gov/of/2005/1284/of2005-1284.pdf
 http://pubs.usgs.gov/of/2005/1288/pdf/OFR-1288.pdf
@@ -22204,7 +22188,6 @@ http://rda.ucar.edu/datasets/ds765.0/
 http://rda.ucar.edu/datasets/ds767.0/
 http://rda.ucar.edu/datasets/ds768.0/docs/update-info.html
 http://rda.ucar.edu/datasets/ds770.0/
-http://rda.ucar.edu/datasets/ds770.0/http://ftpbrowser.gsfc.nasa.gov/ae_de2_s.html
 http://rda.ucar.edu/datasets/ds824.1/
 http://rda.ucar.edu/datasets/ds825.0/
 http://rda.ucar.edu/datasets/ds862.0/
@@ -22218,7 +22201,6 @@ http://reason.gesdisc.eosdis.nasa.gov/data/Fire/MYD14CM1.005/
 http://reason.gesdisc.eosdis.nasa.gov/data/Fire/MYD14CM1.005/doc/MOD14CM1.004.pdf
 http://reason.gesdisc.eosdis.nasa.gov/data/Land_Surface_Temperature/MOD11CM1D.005/
 http://reason.gesdisc.eosdis.nasa.gov/data/Land_Surface_Temperature/MOD11CM1D.005/doc/README.MOD11CM1.pdf
-http://reason.gesdisc.eosdis.nasa.gov/data/Land_Surface_Temperature/MOD11CM1D.005/doc/README.MOD11CM1.pdfhttp://disc.sci.gsfc.nasa.gov/neespi/images/sample.MODVI.005.201007.gif
 http://reason.gesdisc.eosdis.nasa.gov/data/Land_Surface_Temperature/MOD11CM1N.005/
 http://reason.gesdisc.eosdis.nasa.gov/data/Land_Surface_Temperature/MYD11CM1N.005/
 http://reason.gesdisc.eosdis.nasa.gov/data/Snow_Ice/NHICEM.001
@@ -22253,7 +22235,7 @@ http://research.metoffice.gov.uk/link/metadata/HadCM3_AFHb.xml
 http://research.metoffice.gov.uk/link/metadata/HadCM3_AGGH.xml
 http://research.metoffice.gov.uk/link/metadata/HadCM3_ALL-1.xml
 http://research.metoffice.gov.uk/link/metadata/HadCM3_ALL-2.xml
-http://research.metoffice.gov.uk/link/metadata/HadCM3_ALL-3.xmlhttp://badc.nerc.ac.uk/
+http://research.metoffice.gov.uk/link/metadata/HadCM3_ALL-3.xml
 http://research.metoffice.gov.uk/link/metadata/HadCM3_ALL-4.xml
 http://research.metoffice.gov.uk/link/metadata/HadCM3_ALL.xml
 http://research.metoffice.gov.uk/link/metadata/HadCM3_B1_QUMP.xml
@@ -22434,7 +22416,7 @@ http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial
 http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YCLD
 http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YCLD2
 http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YLS
-http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YLS4ftp://l5eil01.larc.nasa.gov/MISR/MIL3DLSN.004/
+http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YLS4
 http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YRD
 http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MIL3YRD5
 http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=MOD09A15
@@ -22539,7 +22521,6 @@ http://reverb.echo.nasa.gov/reverb/#utf8=???&spatial_map=satellite&spatial_type=
 http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura%20L2%20Ammonia%20Lite%20Nadir%20V006&selected=C1000000360-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20Ammonia%20Lite%20Nadir%20V006&selected=C1000000360-LARC
 http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura%20L2%20Carbon%20Monoxide%20Lite%20Nadir%20V006&selected=C1000000340-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20Carbon%20Monoxide%20Lite%20Nadir%20V006&selected=C1000000340-LARC
 http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura%20L2%20Formic%20Acid%20Lite%20Nadir%20V006&selected=C1000000362-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20Formic%20Acid%20Lite%20Nadir%20V006&selected=C1000000362-LARC
-http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura%20L2%20Formic%20Acid%20Lite%20Nadir%20V006&selected=C1000000362-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20Formic%20Acid%20Lite%20Nadir%20V006&selected=C1000000362-LARChttp://tes.jpl.nasa.gov/
 http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura%20L2%20HDO%20Lite%20Nadir%20V006&selected=C1000000361-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20HDO%20Lite%20Nadir%20V006&selected=C1000000361-LARC
 http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura%20L2%20Ozone%20Lite%20Nadir%20V006&selected=C1000000380-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20Ozone%20Lite%20Nadir%20V006&selected=C1000000380-LARC
 http://reverb.echo.nasa.gov/reverb/?keywords=TES%2FAura+L2+Methane+Lite+Nadir+V006&selected=C1000000320-LARC#utf8=%E2%9C%93&spatial_map=satellite&spatial_type=rectangle&keywords=TES%2FAura%20L2%20Methane%20Lite%20Nadir%20V006&selected=C1000000320-LARC
@@ -22592,14 +22573,11 @@ http://schmidt.eas.gatech.edu/simple/
 http://sci.waikato.ac.nz/about-us/people/caryc
 http://sci.waikato.ac.nz/about-us/people/caryc;nztabs.ictar.aq
 http://sci.waikato.ac.nz/about-us/people/greentga
-http://sci.waikato.ac.nz/about-us/people/greentgahttps://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=69
 http://sci.waikato.ac.nz/staff/biol/caryc
 http://sci.waikato.ac.nz/staff/chem/chendy
 http://sci2.estec.esa.nl/cluster/csds/csds.html
 http://scidbase.nipr.ac.jp/?ml_lang=en
 http://scidbase.nipr.ac.jp/?ml_lang=en/
-http://scidbase.nipr.ac.jp/?ml_lang=enhttp://scidbase.nipr.ac.jp/?ml_lang=en
-http://scidbase.nipr.ac.jp/?ml_lang=enhttp://usjgofs.whoi.edu/jg/dir/jgofs/
 http://scidbase.nipr.ac.jp/modules/metadata/index.php?content_id=225&ml_lang=en
 http://scidbase.nipr.ac.jp/modules/metadata/index.php?content_id=237&ml_lang=en
 http://scidbase.nipr.ac.jp/modules/metadata/index.php?content_id=321&ml_lang=en
@@ -22617,12 +22595,12 @@ http://sd-www.jhuapl.edu/IMP/imp_index.html
 http://sdls.ogs.trieste.it/
 http://sdmines.sdsmt.edu/sdsmt
 http://sdms.cr.usgs.gov/data/metadata/bbendpt.html
-http://sdms.cr.usgs.gov/data/metadata/gav79.htmlhttp://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/403?gridFormat=ESRI+Arc+ASCII
+http://sdms.cr.usgs.gov/data/metadata/gav79.html
 http://sdms.cr.usgs.gov/data/metadata/mithabn.html
 http://sdms.cr.usgs.gov/data/metadata/mithabs.html
-http://sdms.cr.usgs.gov/data/metadata/mithabs.htmlhttp://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
 http://sdms.cr.usgs.gov/data/metadata/mss96.html
 http://sdms.cr.usgs.gov/data/metadata/tby72.html
+http://sdms.cr.usgs.gov/data/metadata/vcwbmaps.html
 http://sdms.cr.usgs.gov/data/metadata/veglin97.html
 http://sdms.cr.usgs.gov/data/metadata/vegpt68.html
 http://sdms.cr.usgs.gov/pub/fl/stvin/stvinvg.html
@@ -22895,6 +22873,7 @@ http://search.earthdata.nasa.gov/search?q=ML3DZMBRO+004
 http://search.earthdata.nasa.gov/search?q=ML3DZMHO2+004
 http://search.earthdata.nasa.gov/search?q=NLDAS_FOR0125_M
 http://search.earthdata.nasa.gov/search?q=NLDAS_FOR0125_MC
+http://search.earthdata.nasa.gov/search?q=OMMYDAGEO+003
 http://search.earthdata.nasa.gov/search?q=OMMYDCLD+003
 http://search.earthdata.nasa.gov/search?q=SOR3SIMD+022
 http://search.earthdata.nasa.gov/search?q=SOR3SOLFUVD+015
@@ -23336,7 +23315,7 @@ http://sedac.ciesin.columbia.edu/downloads/maps/epi/epi-environmental-performanc
 http://sedac.ciesin.columbia.edu/downloads/maps/epi/epi-environmental-performance-index-2014/epi2014.pdf
 http://sedac.ciesin.columbia.edu/downloads/maps/epi/epi-environmental-performance-index-pilot-trend-2012/2012-epi.pdf
 http://sedac.ciesin.columbia.edu/downloads/maps/epi/epi-pilot-environmental-performance-index-2006/EPI2006_Overall_Score.pdf
-http://sedac.ciesin.columbia.edu/downloads/maps/esi/esi-environmental-sustainability-index-2002/2002_ESI_Scores_by_Country.pdfhttp://pubs.usgs.gov/of/2004/1058/of2004-1058.pdf
+http://sedac.ciesin.columbia.edu/downloads/maps/esi/esi-environmental-sustainability-index-2002/2002_ESI_Scores_by_Country.pdf
 http://sedac.ciesin.columbia.edu/downloads/maps/esi/esi-environmental-sustainability-index-2005/2005_ESI_Scores_by_Country.pdf
 http://sedac.ciesin.columbia.edu/downloads/maps/ferman-v1/ferman-v1-nitrogen-fertilizer-application/nitrogen-fertilizer-global.pdf
 http://sedac.ciesin.columbia.edu/downloads/maps/ferman-v1/ferman-v1-nitrogen-in-manure-production/nitrogen-in-manure-global.pdf
@@ -23797,7 +23776,7 @@ http://sofia.usgs.gov/projects/index.php?project_url=asr_coord
 http://sofia.usgs.gov/projects/index.php?project_url=atlss
 http://sofia.usgs.gov/projects/index.php?project_url=atlss/kite
 http://sofia.usgs.gov/projects/index.php?project_url=atlss/landveg
-http://sofia.usgs.gov/projects/index.php?project_url=atlss/wading_birdshttp://www.rothamsted.bbsrc.ac.uk/aen/somnet/index.htm
+http://sofia.usgs.gov/projects/index.php?project_url=atlss/wading_birds
 http://sofia.usgs.gov/projects/index.php?project_url=bact_demeth
 http://sofia.usgs.gov/projects/index.php?project_url=bathymetry
 http://sofia.usgs.gov/projects/index.php?project_url=bathymetry#metadata
@@ -23883,7 +23862,6 @@ http://sofia.usgs.gov/projects/index.php?project_url=rtt_sfwmd
 http://sofia.usgs.gov/projects/index.php?project_url=rtt_usace
 http://sofia.usgs.gov/projects/index.php?project_url=salinity_values
 http://sofia.usgs.gov/projects/index.php?project_url=sed_geochron
-http://sofia.usgs.gov/projects/index.php?project_url=sed_geochronhttp://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
 http://sofia.usgs.gov/projects/index.php?project_url=sed_turbidity
 http://sofia.usgs.gov/projects/index.php?project_url=seep_mgmt
 http://sofia.usgs.gov/projects/index.php?project_url=sheet_flow
@@ -23929,7 +23907,6 @@ http://sofia.usgs.gov/publications/wri/00-4251/apdx1/
 http://sofia.usgs.gov/publications/wri/02-4036/table4.html
 http://sofia.usgs.gov/time/about.php
 http://sofia.usgs.gov/time/index.php
-http://sofia.usgs.govhttp://sofia.usgs.gov/exchange/jjones/jjones.html
 http://sohowww.nascom.nasa.gov/data/
 http://sohowww.nascom.nasa.gov/data/archive.html
 http://sohowww.nascom.nasa.gov/gallery/COSTEP
@@ -24191,6 +24168,7 @@ http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00060/GEODAS/B00060.xy
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00060/GEODAS/B00060_h93.htm
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00061/GEODAS/B00061.a93.gz
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00061/GEODAS/B00061.xyz.gz
+http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00061/GEODAS/B00061_h93.htm
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00062/GEODAS/B00062.a93.gz
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00062/GEODAS/B00062.xyz.gz
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00062/GEODAS/B00062_h93.htm
@@ -24782,6 +24760,7 @@ http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00278/GEODAS/B00278.xy
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00278/GEODAS/B00278_h93.htm
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00279/GEODAS/B00279.a93.gz
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00279/GEODAS/B00279.xyz.gz
+http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00279/GEODAS/B00279_h93.htm
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00280/GEODAS/B00280.a93.gz
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00280/GEODAS/B00280.xyz.gz
 http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00280/GEODAS/B00280_h93.htm
@@ -25297,7 +25276,7 @@ http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/mo
 http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/11um/v2014/9km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/11um/v2014/9km/aggregate__MODIS_AQUA_L3_SST_THERMAL_DAILY_9KM_NIGHTTIME_V2014.ncml
 http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/aggregate__MODIS_AQUA_L3_SST_MID-IR_8DAY_4KM_NIGHTTIME.ncml
 http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/aggregate__MODIS_AQUA_L3_SST_MID-IR_ANNUAL_4KM_NIGHTTIME.ncml
-http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/aggregate__MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME.ncmlhttp://podaac-opendap.jpl.nasa.gov/opendap/allData/modis/L3/aqua/4um/9km/monthly/
+http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/4km/aggregate__MODIS_AQUA_L3_SST_MID-IR_MONTHLY_4KM_NIGHTTIME.ncml
 http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/9km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/9km/aggregate__MODIS_AQUA_L3_SST_MID-IR_8DAY_9KM_NIGHTTIME.ncml
 http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/9km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/9km/aggregate__MODIS_AQUA_L3_SST_MID-IR_ANNUAL_9KM_NIGHTTIME.ncml
 http://thredds.jpl.nasa.gov/thredds/catalog/ncml_aggregation/OceanTemperature/modis/aqua/4um/9km/catalog.html?dataset=ncml_aggregation/OceanTemperature/modis/aqua/4um/9km/aggregate__MODIS_AQUA_L3_SST_MID-IR_DAILY_9KM_NIGHTTIME.ncml
@@ -25382,8 +25361,21 @@ http://thredds.met.no/thredds/catalog/data/met.no/iAOOS-bio1/
 http://thredds.met.no/thredds/catalog/data/met.no/ipy-thorpex/
 http://thredds.ucar.edu/thredds/catalog/grib/NCEP/DGEX/Alaska_12km/catalog.html
 http://thredds.ucar.edu/thredds/catalog/grib/NCEP/DGEX/CONUS_12km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/CONUS_80km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/CONUS_95km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_0p5deg/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_2p5deg/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/GFS/Global_onedeg/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/Alaska_11km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/Alaska_22km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/Alaska_45km/conduit/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/Alaska_45km/noaaport/catalog.html
 http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/Alaska_95km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_12km/catalog.html
 http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_20km/noaaport/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_40km/conduit/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/CONUS_80km/catalog.html
+http://thredds.ucar.edu/thredds/catalog/grib/NCEP/NAM/Polar_90km/catalog.html
 http://thredds.ucar.edu/thredds/idd/forecastModels.html
 http://thunder.nsstc.nasa.gov/research.html
 http://thunderstorm.vaisala.com
@@ -25402,7 +25394,6 @@ http://tin.er.usgs.gov/geochem/
 http://tin.er.usgs.gov/geochem/doc/dbdoc.htm
 http://tin.er.usgs.gov/geochem/doc/home.htm
 http://tin.er.usgs.gov/metadata/akmineclaim.faq.html
-http://tinyurl.com/27lw5j
 http://tinyurl.com/2yc9uw
 http://titan2.cee.yamanashi.ac.jp/FRIEND/Archive.htm
 http://tn.water.usgs.gov/datapg.html
@@ -25413,7 +25404,6 @@ http://topex-www.jpl.nasa.gov/education/education.html
 http://toxics.usgs.gov/pubs/of-2007-1080/report_site_map.html
 http://tparc.mri-jma.go.jp/TIGGE/
 http://traverse.npolar.no/
-http://traverse.npolar.no/http://websrv.cs.umt.edu/isis/index.php/Main_Page
 http://traverse.npolar.no/spatial-extents/gps
 http://trident.baruch.sc.edu/cgi-bin/nph-dods/storm_surge_data/
 http://trmm-fc.gsfc.nasa.gov/Field_Campaigns/IFloodS/
@@ -25443,7 +25433,6 @@ http://ufa.esac.esa.int/ufa/
 http://ugamp.nerc.ac.uk/
 http://ugbo.icm.csic.es/Hesperides/hesperides.htm
 http://uhslc.soest.hawaii.edu
-http://uhslc.soest.hawaii.edu/thredds/catalog.html
 http://uhslc.soest.hawaii.edu/uhslc/jaslget.html
 http://ukcrop.net/agr/
 http://ulysses.jpl.nasa.gov/index.html
@@ -25494,7 +25483,6 @@ http://usda.mannlib.cornell.edu/reports/nassr/price/zpr-bb/
 http://usda.mannlib.cornell.edu/usda/data-sets/international/95001/
 http://usgodae2.usgodae.org/las/servlets/dataset?catitem=741
 http://usjgofs.whoi.edu/
-http://usjgofs.whoi.edu/http://usjgofs.whoi.edu/jg/dir/jgofs/
 http://usjgofs.whoi.edu/jg/dir/jgofs/
 http://usjgofs.whoi.edu/jg/dir/jgofs/southern/nbp98_2/
 http://usjgofs.whoi.edu/jg/serv/jgofs/arabian/aerosols_long.html0%7Bdir=usjgofs.whoi.edu/jg/dir/jgofs/arabian/,info=usjgofs.whoi.edu/jg/info/jgofs/arabian/aerosols_long%7D
@@ -25551,7 +25539,7 @@ http://water.usgs.gov/GIS/dsdl/benchmark.e00.gz
 http://water.usgs.gov/GIS/dsdl/cont1992.zip
 http://water.usgs.gov/GIS/dsdl/cont1994.zip
 http://water.usgs.gov/GIS/dsdl/cont1996.zip
-http://water.usgs.gov/GIS/dsdl/diffus.e00.gzhttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=4505
+http://water.usgs.gov/GIS/dsdl/diffus.e00.gz
 http://water.usgs.gov/GIS/dsdl/geo250k.e00.gz
 http://water.usgs.gov/GIS/dsdl/herbicide2.e00.gz
 http://water.usgs.gov/GIS/dsdl/herbicide3.e00.gz
@@ -25618,7 +25606,6 @@ http://weather.unisys.com/hurricane/w_pacific/index.html
 http://weather.uwyo.edu/upperair/sounding.html
 http://weatheroffice.ec.gc.ca/marine/index_e.html
 http://web.infn.it/smo
-http://web.infn.it/smohttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1224
 http://web.mit.edu/afs/athena/org/s/space/www/wind.html
 http://web.mit.edu/space/www/wind/wind_data.html
 http://web.pdx.edu/~chulbe/
@@ -25628,6 +25615,7 @@ http://web.pml.ac.uk/solas/dogee/dogee.htm
 http://web.pml.ac.uk/solas/index.htm
 http://web.uct.ac.za/depts/bolus/
 http://web.utk.edu/~grissino/itrdb.htm
+http://web.vims.edu/bio/zooplankton/BATS/Data.html
 http://web.vims.edu/physical/WEB/Bay1.htm
 http://web.vims.edu/physical/WEB/York1.htm
 http://web.vims.edu/physical/WEB/case_main.html
@@ -25661,15 +25649,14 @@ http://webmap.ornl.gov/sdat/pimg/973_1_fit.png
 http://webmap.ornl.gov/sdat/pimg/981_1_fit.png
 http://webmap.ornl.gov/sdat/pimg/995_1_fit.png
 http://webmineral.com/
+http://websrv.cs.umt.edu/isis/index.php/Main_Page
 http://websrv.cs.umt.edu/isis/index.php/Present_Day_Antarctica
 http://websrv.cs.umt.edu/isis/index.php/Present_Day_Greenland
 http://websrv.cs.umt.edu/isis/index.php/SeaRISE_Assessment
 http://websrv.cs.umt.edu/isis/index.php/Software
 http://wfdac.whoi.edu
 http://wgms.ch/
-http://whirlingdisease.montana.edu
 http://whirlingdisease.montana.edu/
-http://whirlingdisease.montana.edu/http://data.whirlingdisease.montana.edu/datasetdetail?d=29
 http://wind.nasa.gov/imp8/
 http://winds.jpl.nasa.gov/missions/quikscat/index.cfm
 http://wisportal.cma.gov.cn/wis/
@@ -25744,6 +25731,7 @@ http://www-ccar.Colorado.EDU/~dmr/data/2003_CLPX/
 http://www-ccar.Colorado.EDU/~realtime/yoto-drifters/
 http://www-ccar.colorado.edu/~dmr/campaigns/clpx/
 http://www-ccs.ucsd.edu/zoo/
+http://www-ccs.ucsd.edu/zoo/calcofi/calcofi.txt
 http://www-ccs.ucsd.edu/zoo/ccccs/
 http://www-ccs.ucsd.edu/zoo/ncccs/
 http://www-ccs.ucsd.edu/zoo/ndbc/html/ndbc_met.html
@@ -25822,7 +25810,7 @@ http://www.8tb.org/projects/alewife.htm
 http://www.AODC.gov.au/
 http://www.BoM.GOV.AU/silo/
 http://www.R-arcticnet.sr.unh.edu/AllData/index.html
-http://www.R-arcticnet.sr.unh.edu/v1.0/index.htmlhttp://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
+http://www.R-arcticnet.sr.unh.edu/v1.0/index.html
 http://www.SeagrassNet.org
 http://www.Shaldril.Rice.edu/
 http://www.a2d.com/
@@ -25983,7 +25971,7 @@ http://www.aoml.noaa.gov/hrd/
 http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html
 http://www.aoml.noaa.gov/ocd/necop
 http://www.aoml.noaa.gov/phod/ARGO/HomePage/
-http://www.aoml.noaa.gov/phod/dac/climatology.htmlhttp://www.cpc.ncep.noaa.gov/data/teledoc/ep.shtml
+http://www.aoml.noaa.gov/phod/dac/climatology.html
 http://www.aoml.noaa.gov/phod/dac/climatology_readme.html
 http://www.aoml.noaa.gov/phod/dac/dac.html
 http://www.aoml.noaa.gov/phod/dac/dacdata.html
@@ -26157,6 +26145,7 @@ http://www.aoncadis.org/dataset/id/48145bac-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/483f1531-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/4869ceb6-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/486ac794-017e-11e1-9f20-00c0f03d5b7c.html
+http://www.aoncadis.org/dataset/id/48789b00-ad3d-11e2-b18b-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/4893019b-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/48bc347f-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/48e56763-d496-11de-892a-00c0f03d5b7c.html
@@ -26209,7 +26198,7 @@ http://www.aoncadis.org/dataset/id/5398a8b0-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/53d42b1e-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/5435134a-608b-11e0-9587-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/544626da-d496-11de-892a-00c0f03d5b7c.html
-http://www.aoncadis.org/dataset/id/54483378-40de-11e0-bb38-00c0f03d5b7c.htmlhttp://www.aoncadis.org/dataset/id/e6fbbb49-00c5-11e1-9f20-00c0f03d5b7c.html
+http://www.aoncadis.org/dataset/id/54483378-40de-11e0-bb38-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/5486642f-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/54e748e3-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/5558f67b-d496-11de-892a-00c0f03d5b7c.html
@@ -26382,6 +26371,7 @@ http://www.aoncadis.org/dataset/id/93adf3e8-7d07-11e2-b388-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/93d6725f-8c7d-11e0-89c0-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/94a6de2f-bc98-11e1-b977-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/95178f1b-b354-11e2-a67a-00c0f03d5b7c.html
+http://www.aoncadis.org/dataset/id/952d76fc-a62d-11e2-b18b-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/95bc53d0-7c63-11e2-b388-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/95fb987a-d496-11de-892a-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/962acc59-9543-11e1-aeba-00c0f03d5b7c.html
@@ -26482,7 +26472,7 @@ http://www.aoncadis.org/dataset/id/d0b6e928-8fbb-11e1-aeba-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/d0eebf4d-017e-11e1-9f20-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/d1814f6b-0c6f-11df-80fe-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/d2087d3d-bccb-11e1-b977-00c0f03d5b7c.html
-http://www.aoncadis.org/dataset/id/d3824db5-3284-11e2-9e41-00c0f03d5b7c.htmlhttp://www.aoncadis.org/dataset/id/48789b00-ad3d-11e2-b18b-00c0f03d5b7c.html
+http://www.aoncadis.org/dataset/id/d3824db5-3284-11e2-9e41-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/d4183fc6-803f-11e2-b388-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/d543b64d-bbb3-11e1-b574-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/d5de8621-bc3e-11e1-b574-00c0f03d5b7c.html
@@ -26505,6 +26495,7 @@ http://www.aoncadis.org/dataset/id/e43b0c2f-e619-11df-a7d9-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/e5307556-5532-11e2-9046-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/e57a314b-bbe9-11e1-b574-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/e664316c-523e-11df-9c83-00c0f03d5b7c.html
+http://www.aoncadis.org/dataset/id/e6fbbb49-00c5-11e1-9f20-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/e765b250-6737-11e2-851e-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/e7b01395-b029-11e2-b18b-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/e7d1db34-18a0-11e2-84c8-00c0f03d5b7c.html
@@ -26528,6 +26519,7 @@ http://www.aoncadis.org/dataset/id/f0a30c87-da03-11e1-9229-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/f15125ae-5f0f-11e0-965c-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/f20272b4-5d57-11e1-9d93-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/f28e900c-e8e8-11df-a7d9-00c0f03d5b7c.html
+http://www.aoncadis.org/dataset/id/f35faa56-00bc-11e1-9f20-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/f3ad7269-bbc4-11e1-b574-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/f3bea725-bbdd-11e1-b574-00c0f03d5b7c.html
 http://www.aoncadis.org/dataset/id/f51b0834-bb2c-11e1-b574-00c0f03d5b7c.html
@@ -26560,7 +26552,6 @@ http://www.arb.ca.gov/homepage.htm
 http://www.arcgis.com/home/webmap/viewer.html?webmap=43a5de9f17a3441bb1cc72779cf810df
 http://www.arcodiv.org/
 http://www.arcodiv.org/#
-http://www.arcodiv.org/http://www.invasivespeciesinfo.gov/toolkit/expertise.shtml
 http://www.arctic.gov/publications/other/arctic_marine_transport.pdf
 http://www.arctic.noaa.gov
 http://www.arcticcbm.org/index.html
@@ -26639,6 +26630,7 @@ http://www.awi.de/en/home/
 http://www.awi.de/en/research/research_divisions/climate_science/sea_ice_physics/projects/recent_projects/ipab_iabp/
 http://www.awi.de/en/research/research_divisions/geosciences/periglacial_research/projects/arctic_coastal_dynamics_acd/
 http://www.badc.rl.ac.uk/cgi-bin/data_browser/data_browser/badc/ukmo-clim/data/
+http://www.badc.rl.ac.uk/cgi-bin/db/public/list_dataset_details.cgi.pl?db_name=badccat::badcdb&dataset_id=GOSTA
 http://www.badc.rl.ac.uk/data/aam/
 http://www.badc.rl.ac.uk/data/ashoe/
 http://www.badc.rl.ac.uk/data/ecmwf-era/
@@ -26661,6 +26653,7 @@ http://www.bchydro.com/index.html
 http://www.bclme.org/
 http://www.bco-dmo.org/
 http://www.bco-dmo.org/data
+http://www.bco-dmo.org/dataset/2361
 http://www.bco-dmo.org/dataset/546372
 http://www.bco-dmo.org/dataset/639502
 http://www.bco-dmo.org/dataset/658394
@@ -26826,6 +26819,7 @@ http://www.botanicus.org/bibliography/b11976676
 http://www.botanicus.org/bibliography/b11976913
 http://www.botanicus.org/bibliography/b12030272
 http://www.botanicus.org/bibliography/b12066618
+http://www.botanicus.org/bibliography/b12076788
 http://www.botanicus.org/bibliography/b12082181
 http://www.botanicus.org/bibliography/b12302466
 http://www.botanicus.org/bibliography/b12334054
@@ -26837,7 +26831,7 @@ http://www.botanicus.org/item/31753002729967
 http://www.botanicus.org/item/31753003348023
 http://www.botanicus.org/title/02031285
 http://www.botanicus.org/title/B1175221x
-http://www.botanicus.org/title/b11634662http://www.sacha.org/
+http://www.botanicus.org/title/b11634662
 http://www.botanicus.org/title/b11647814
 http://www.botanicus.org/title/b11649872
 http://www.botanicus.org/title/b11663662
@@ -27089,7 +27083,6 @@ http://www.cloudsat.cira.colostate.edu/data-products/level-2b/2b-cwc-rvod
 http://www.cloudsat.cira.colostate.edu/dataSpecs.php?prodid=1
 http://www.cloudsat.cira.colostate.edu/dataSpecs.php?prodid=85
 http://www.cloudsat.cira.colostate.edu/dpcstatusQL.php
-http://www.cloudsat.cira.colostate.edu/dpcstatusQL.phphttp://www.cloudsat.cira.colostate.edu/order-data
 http://www.cloudsat.cira.colostate.edu/order-data
 http://www.clyderiverweather.org/
 http://www.cmar.csiro.au/
@@ -27219,7 +27212,7 @@ http://www.cru.uea.ac.uk/
 http://www.cru.uea.ac.uk/cru/data/temperat.htm
 http://www.cru.uea.ac.uk/~timm/grid/CRU_TS_2_0.html
 http://www.cs.umd.edu/hcil/biodiversity/#EcoLens
-http://www.csc.noaa.gov/digitalcoast/data/index.htmlhttp://www.botanicus.org/bibliography/b12076788
+http://www.csc.noaa.gov/digitalcoast/data/index.html
 http://www.csdl.tamu.edu/FLORA/arkansas/arkfamyy.htm
 http://www.csiro.au/Organisation-Structure/National-Facilities/Australian-National-Algae-Culture-Collection.aspx
 http://www.csolas.dal.ca/solas_2618.html
@@ -27356,7 +27349,6 @@ http://www.elsevier.com/wps/find/electronicproductdescription.cws_home/31088/des
 http://www.elsevier.com:80/inca/publications/store/4/9/0/
 http://www.emc.ncep.noaa.gov/gmb/STATS/html/model_changes.html
 http://www.emc.ncep.noaa.gov/gmb/gdas/
-http://www.emc.ncep.noaa.gov/gmb/gdas/http://rda.ucar.edu/datasets/ds084.1/
 http://www.emc.ncep.noaa.gov/gmb/para/parabout.html
 http://www.emc.ncep.noaa.gov/index.php?branch=GFS
 http://www.emc.ncep.noaa.gov/mmb/data_processing/bufrtab_tableb.htm
@@ -27414,7 +27406,6 @@ http://www.eorc.jaxa.jp/JERS-1/en/index.html
 http://www.eorc.jaxa.jp/TRMM/documents/PR_algorithm_product_information/pr_manual/PR_Instruction_Manual_V7_L1.pdf
 http://www.eorc.jaxa.jp/TRMM/index_e.htm
 http://www.eorc.jaxa.jp/en/about/distribution/index.html
-http://www.eorc.jaxa.jp/en/about/distribution/index.htmlhttp://www.eorc.jaxa.jp/en/about/distribution/index.html
 http://www.eorc.nasda.go.jp/ADEOS/
 http://www.eot.state.ma.us/default.asp?pgid=planning/ferryRoutes&sid=about
 http://www.eot.state.ma.us/default.asp?pgid=planning/seaports&sid=about
@@ -27500,7 +27491,6 @@ http://www.esl.lsu.edu/research/coast_est_process/
 http://www.esl.lsu.edu/research/river_deltas/geomorphic/
 http://www.esl.lsu.edu/research/river_deltas/hydromorphic/
 http://www.esonet-noe.org/Demonstration-missions/LIDO
-http://www.esonet-noe.org/Demonstration-missions/LIDOhttp://moist.rm.ingv.it/sites/western_ionian_sea/2/SMO1/scalar_magnetometer/39/dataset/plot
 http://www.esonet.marmara-dm.itu.edu.tr/
 http://www.espo.nasa.gov/
 http://www.espo.nasa.gov/ashoe_maesa/
@@ -27515,9 +27505,9 @@ http://www.esri.com
 http://www.esri.com/data/index.html
 http://www.esri.com/mapmuseum/mapbook_gallery/volume16/geology4.html
 http://www.esri.com/mapmuseum/mapbook_gallery/volume18/agriculture1.html
+http://www.esri.com/mapmuseum/mapbook_gallery/volume18/agriculture2.html
 http://www.esri.com/mapmuseum/mapbook_gallery/volume18/conservation2.html
 http://www.esri.com/mapmuseum/mapbook_gallery/volume18/forestry1.html
-http://www.esri.com/metadata/esriprof80.html
 http://www.esri.com/products.html
 http://www.esri.com/software/arcexplorer/index.html
 http://www.esri.com/software/arcims/index.html
@@ -27754,7 +27744,7 @@ http://www.fs.fed.us/rangelands/ecology/wildhorseburro/index.shtml
 http://www.fsa.usda.gov/Internet/FSA_File/naip_2009_info_final.pdf
 http://www.fsl.orst.edu/climhy/climdb/
 http://www.fsl.orst.edu/lter/data.cfm?topnav=8
-http://www.fugroearthdata.com/projectssubcat.php?subcat=8http://nsidc.org/data/docs/daac/nsidc0052_greenland_sar_dem.gd.html
+http://www.fugroearthdata.com/projectssubcat.php?subcat=8
 http://www.fws.gov/
 http://www.fws.gov/coastal/CoastalProgram/
 http://www.fws.gov/data/
@@ -27768,6 +27758,7 @@ http://www.fws.gov/northeast/gis/refuge1/eamorton/bnd/morbnd.htm
 http://www.fws.gov/northeast/gis/refuge1/erie/bnd/senbnd.htm
 http://www.fws.gov/northeast/gis/refuge1/forsythe/bnd/brn_base.htm
 http://www.fws.gov/northeast/gis/refuge1/forsythe/bnd/ebf_base.htm
+http://www.fws.gov/northeast/gis/refuge1/greatswamp/bnd/grs_base.htm
 http://www.fws.gov/northeast/gis/refuge1/johnhay/bnd/jhybnd.htm
 http://www.fws.gov/northeast/gis/refuge1/lidobeach/bnd/clb_base.htm
 http://www.fws.gov/northeast/gis/refuge2/oysterbay/bnd/oys_base.htm
@@ -27785,6 +27776,7 @@ http://www.fws.gov/northeast/gis/refuge2/wertheim/bnd/wrt_base.htm
 http://www.fws.gov/northeast/gulfofmaine/
 http://www.fws.gov/northeast/gulfofmaine/maps_data/index.htm
 http://www.fws.gov/r5cneafp/links.htm
+http://www.fws.gov/r5gomp/gom/cv/nwr_metadata/kbbbnd.htm
 http://www.fws.gov/r5gomp/gom/cv/nwr_metadata/msabnd.htm
 http://www.fws.gov/r5gomp/gom/habitatstudy/metadata/report_files/occurrence_data/OCCURRENCES_TABLE.htm
 http://www.fws.gov/wetlands/Data/Data-Download.html
@@ -27850,7 +27842,7 @@ http://www.geog.canterbury.ac.nz/department/staff/christinee.shtml
 http://www.geog.canterbury.ac.nz/research/staff/iceshelf.shtml
 http://www.geog.ox.ac.uk/
 http://www.geog.ucl.ac.uk/
-http://www.geog.ucl.ac.uk/~mtodd/research1b.htm#Dataset%20descriptionhttp://www-ccs.ucsd.edu/zoo/calcofi/calcofi.txt
+http://www.geog.ucl.ac.uk/~mtodd/research1b.htm#Dataset%20description
 http://www.geographynetwork.ca
 http://www.geogratis.gc.ca/geogratis/en/option/select.do?id=274410D0-319E-F2D0-04F2-3282BEE8D0D1
 http://www.geoimage.com.au/
@@ -27970,7 +27962,7 @@ http://www.goes.noaa.gov/
 http://www.gomoos.org
 http://www.gomoos.org/
 http://www.gosat.nies.go.jp/index_e.html
-http://www.gosic.org/http://cdiac.ornl.gov/ftp/db1013/
+http://www.gosic.org/
 http://www.gov.nf.ca/env/env/waterres/Surfacewater/Drinking/DrinkingWater.asp
 http://www.gov.ns.ca/fish/marketing/statistics/landings/index.shtml
 http://www.gov.ns.ca/natr/wildlife/Thp/disclaim.htm
@@ -28024,6 +28016,7 @@ http://www.gsajournals.org/gsaonline/?request=get-abstract&issn=0091-7613&volume
 http://www.gsajournals.org/gsaonline/?request=get-abstract&issn=0091-7613&volume=029&issue=02&page=0127
 http://www.gsajournals.org/gsaonline/?request=get-abstract&issn=0091-7613&volume=029&issue=02&page=0139
 http://www.gsajournals.org/gsaonline/?request=get-abstract&issn=0091-7613&volume=029&issue=02&page=0167
+http://www.gsajournals.org/gsaonline/?request=get-abstract&issn=0091-7613&volume=029&issue=02&page=0171
 http://www.gsf.de/eurotrac/
 http://www.gsi.go.jp/ENGLISH/index.html
 http://www.gsi.gov.in/bhujpics.htm
@@ -28077,6 +28070,7 @@ http://www.hydro.gov.au/
 http://www.i2workout.com/mcuriale/mpn/index.html
 http://www.iaa.gov.ar/cda/CDA_IAA_20131008193729/IR01D012_027.CSV
 http://www.iaato.org/
+http://www.iabin.net/
 http://www.ias.sdsmt.edu/umrb/index.htm
 http://www.ias.u-psud.fr/swan/
 http://www.ias.u-psud.fr/virgo/
@@ -28209,7 +28203,7 @@ http://www.ink.su.se
 http://www.inm.es/mar
 http://www.inocar.mil.ec/mareas/mareas.php
 http://www.inpe.br/
-http://www.institut-polaire.fr/language/en/http://www.aoncadis.org/dataset/id/952d76fc-a62d-11e2-b18b-00c0f03d5b7c.html
+http://www.institut-polaire.fr/language/en/
 http://www.instm.agrinet.tn/
 http://www.int-res.com/abstracts/esr/v8/n3/p157-164/
 http://www.int-res.com/articles/dao/34/d034p145.pdf
@@ -28218,6 +28212,7 @@ http://www.intermagnet.org/
 http://www.intermagnet.org/Data_e.html
 http://www.inuitcircumpolar.com/
 http://www.invasivespecies.gov/index.shtml
+http://www.invasivespeciesinfo.gov/toolkit/expertise.shtml
 http://www.invemar.org.co/museohnmc/marco_sibm.htm
 http://www.invemar.org.co/pcategorias.jsp?idcat=124
 http://www.io.usp.br/english/projects/deproas.html
@@ -28529,7 +28524,7 @@ http://www.isgs.uiuc.edu/nsdihome/outmeta/stforest.html
 http://www.isgs.uiuc.edu/nsdihome/outmeta/stfwa.html
 http://www.isgs.uiuc.edu/nsdihome/outmeta/structclines.html
 http://www.isgs.uiuc.edu/nsdihome/outmeta/structfaults.html
-http://www.isgs.uiuc.edu/nsdihome/outmeta/structpnts.htmlhttps://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=57
+http://www.isgs.uiuc.edu/nsdihome/outmeta/structpnts.html
 http://www.isgs.uiuc.edu/nsdihome/outmeta/stslope.html
 http://www.ispol.de/
 http://www.isric.nl/
@@ -28581,7 +28576,6 @@ http://www.iziko.org.za/static/page/entomology
 http://www.iziko.org.za/static/page/marine-biology-collections
 http://www.jamstec.go.jp/ARGO/argo_web/argo/index_e.html
 http://www.jamstec.go.jp/dataportal/viewer.htm
-http://www.jamstec.go.jp/dataportal/viewer.htmhttp://www.jamstec.go.jp/iorgc/mismo/index-e.html
 http://www.jamstec.go.jp/esc/research/AtmOcn/product/ofes.html
 http://www.jamstec.go.jp/esc/research/oreda/products/alera.html
 http://www.jamstec.go.jp/esc/research/oreda/products/alera2.html
@@ -28594,6 +28588,7 @@ http://www.jamstec.go.jp/iorgc/cindy/index.html
 http://www.jamstec.go.jp/iorgc/harimau/HARIMAU.html
 http://www.jamstec.go.jp/iorgc/hcorp/data/database/index.html
 http://www.jamstec.go.jp/iorgc/iomics/datadelivery/delivery.php?LANG=0
+http://www.jamstec.go.jp/iorgc/mismo/index-e.html
 http://www.jamstec.go.jp/iorgc/ocorp/data/bgc_ar/
 http://www.jamstec.go.jp/iorgc/ocorp/data/post-woce.html
 http://www.jamstec.go.jp/iorgc/ocorp/data/wife/index.html
@@ -28601,7 +28596,7 @@ http://www.jamstec.go.jp/iorgc/ocorp/ktsfg/data/jkeo/JKEOdata.htm
 http://www.jamstec.go.jp/j/database/okitori/index.html
 http://www.jamstec.go.jp/jamstec-e/IFREE_center/index-e.html
 http://www.jamstec.go.jp/jamstec-e/maritec/donet/index.html
-http://www.jamstec.go.jp/jamstec/TRITON/real_time/php/top.phphttps://disc.gsfc.nasa.gov/AIRS/images/3B42.20160229.7.png
+http://www.jamstec.go.jp/jamstec/TRITON/real_time/php/top.php
 http://www.jamstec.go.jp/pacific21/
 http://www.jamstec.go.jp/res/ress/kimopy/foraminifera/
 http://www.jamstec.go.jp/rigc/j/tcvrp/ipocvrt/adcp_data.html
@@ -28624,6 +28619,7 @@ http://www.jodc.go.jp/data/non-digital.html
 http://www.jodc.jhd.go.jp/data/bathymetry/jbird.html
 http://www.jodc.jhd.go.jp/data/bathymetry/mesh-depth.html
 http://www.jodc.jhd.go.jp/data/bathymetry/mgd77.html
+http://www.jodc.jhd.go.jp/data/biology.html
 http://www.jodc.jhd.go.jp/data/current/os-current.html
 http://www.jodc.jhd.go.jp/data/current/shipboard-adcp.html
 http://www.jodc.jhd.go.jp/data/current/stat-o-cur.html
@@ -28632,7 +28628,7 @@ http://www.jodc.jhd.go.jp/data/pollution/marpolmon.html
 http://www.jodc.jhd.go.jp/data/serial/bt.html
 http://www.jodc.jhd.go.jp/data/serial/ctd-station.gif
 http://www.jodc.jhd.go.jp/data/serial/ctd.html
-http://www.jodc.jhd.go.jp/data/serial/sd.htmlhttp://www.badc.rl.ac.uk/cgi-bin/db/public/list_dataset_details.cgi.pl?db_name=badccat::badcdb&dataset_id=GOSTA
+http://www.jodc.jhd.go.jp/data/serial/sd.html
 http://www.jodc.jhd.go.jp/data/serial/stat-sal.html
 http://www.jodc.jhd.go.jp/data/serial/stat-temp.html
 http://www.jodc.jhd.go.jp/data/tidal-current.html
@@ -28788,8 +28784,8 @@ http://www.lib.umich.edu/govdocs/text/readmect.txt
 http://www.life.uiuc.edu/whitfield/people/Jonathan_info.html
 http://www.lincoln.ac.nz/staff-profile?staffid=gary.steel
 http://www.lincoln.ac.nz/story17282.html
-http://www.lincoln.ac.nz/story17282.htmlhttp://amrc.ssec.wisc.edu/aws/williefieldmain.html
 http://www.lincoln.ac.nz/story27769.html
+http://www.linz.govt.nz/ftp/sea_level_data/ROBT/
 http://www.linz.govt.nz/geodetic/positionz/index.aspx
 http://www.lio.gov.on.ca
 http://www.literacynet.org/polar/elements/elements_home.html
@@ -28868,7 +28864,6 @@ http://www.marbef.org/data/Dataset.php?dasid=833
 http://www.marbef.org/data/Dataset.php?dasid=961
 http://www.marbef.org/data/Dataset.php?dasid=976
 http://www.marbef.org/data/eurobis.php
-http://www.marbef.org/data/eurobis.phphttp://www.jodc.jhd.go.jp/data/biology.html
 http://www.marbef.org/data/eurobissearch.php?dataprovider=1
 http://www.marbef.org/data/eurobissearch.php?dataprovider=10
 http://www.marbef.org/data/eurobissearch.php?dataprovider=11
@@ -29128,6 +29123,7 @@ http://www.marine-geo.org/link/entry.php?id=NBP0001
 http://www.marine-geo.org/link/entry.php?id=NBP0002
 http://www.marine-geo.org/link/entry.php?id=NBP0003
 http://www.marine-geo.org/link/entry.php?id=NBP0004
+http://www.marine-geo.org/link/entry.php?id=NBP0005
 http://www.marine-geo.org/link/entry.php?id=NBP0006A
 http://www.marine-geo.org/link/entry.php?id=NBP0006B
 http://www.marine-geo.org/link/entry.php?id=NBP0006C
@@ -29327,6 +29323,7 @@ http://www.marine-geo.org/link/entry.php?id=NBP9905
 http://www.marine-geo.org/link/entry.php?id=NBP9906
 http://www.marine-geo.org/link/entry.php?id=NBP9907
 http://www.marine-geo.org/link/entry.php?id=NBP9908
+http://www.marine-geo.org/link/entry.php?id=NBP9908A
 http://www.marine-geo.org/link/entry.php?id=NBP9909
 http://www.marine-geo.org/link/search.php?platform=Laurence%20M.%20Gould&sort_output=entry_sort
 http://www.marine-geo.org/link/search.php?platform=Nathaniel%20B.%20Palmer&sort_output=entry_sort
@@ -29480,6 +29477,7 @@ http://www.meds-sdmm.dfo-mpo.gc.ca/biochemQuery/
 http://www.meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/azmp-pmza/index-eng.html
 http://www.meds-sdmm.dfo-mpo.gc.ca/isdm-gdsi/index-eng.html
 http://www.meds-sdmm.dfo-mpo.gc.ca/meds/Prog_Int/argo/ArgoHome_e.html
+http://www.meds-sdmm.dfo-mpo.gc.ca/post/directLogin.do
 http://www.medspiration.org
 http://www.meece.eu/
 http://www.mercator-ocean.fr
@@ -29493,7 +29491,6 @@ http://www.met.utah.edu/mesowest/
 http://www.meteo.be/IAGA_WG_V.1/
 http://www.meteo.fr/aeroweb/info/vaac/
 http://www.meteo.ru/
-http://www.meteo.ru/http://www.meteo.ru/
 http://www.meteo.ru/nodc/format/bt.txt
 http://www.meteo.ru/nodc/format/map_bt.doc
 http://www.meteo.ru/nodc/format/mormet.doc
@@ -29575,7 +29572,7 @@ http://www.mysound.uconn.edu/mys_archives.html
 http://www.mysound.uconn.edu/mys_realobs.html
 http://www.na.fs.fed.us/spfo/pubs/n_resource/flood/cover.htm
 http://www.nacarbon.org
-http://www.naco.faa.gov/http://forest.gsfc.nasa.gov/
+http://www.naco.faa.gov/
 http://www.nae.usace.army.mil/damos/index.asp
 http://www.nap.edu/books/0309069483/html/
 http://www.narwhal.org/
@@ -29587,6 +29584,7 @@ http://www.nasa.gov/mission_pages/sdo/main/index.html
 http://www.nasa.gov/mission_pages/stereo/main/
 http://www.nasa.gov/mission_pages/themis/main/
 http://www.nasa.gov/vision/earth/lookingatearth/hurricane_2005.html
+http://www.nasa.proj.ac.il/geos/med.html
 http://www.nasa.proj.ac.il/ims/ims.html
 http://www.nasa.proj.ac.il/moe/moe.html
 http://www.nasa.proj.ac.il/msil/msil.html
@@ -29825,7 +29823,8 @@ http://www.ncbi.nlm.nih.gov/nuccore/224038665
 http://www.ncbi.nlm.nih.gov/nuccore/224038666
 http://www.ncbi.nlm.nih.gov/nuccore/224038667
 http://www.ncbi.nlm.nih.gov/nuccore/224038668
-http://www.ncbi.nlm.nih.gov/nuccore/224038669http://www.ncbi.nlm.nih.gov/nuccore/224038670
+http://www.ncbi.nlm.nih.gov/nuccore/224038669
+http://www.ncbi.nlm.nih.gov/nuccore/224038670
 http://www.ncbi.nlm.nih.gov/nuccore/224038671
 http://www.ncbi.nlm.nih.gov/nuccore/224038672
 http://www.ncbi.nlm.nih.gov/nuccore/224038673
@@ -29973,7 +29972,7 @@ http://www.ncdc.noaa.gov/paleo/ftp-icecore.html
 http://www.ncdc.noaa.gov/paleo/ftp-ocean.html
 http://www.ncdc.noaa.gov/paleo/ftp-plantmacro.html
 http://www.ncdc.noaa.gov/paleo/ftp-pollen.html
-http://www.ncdc.noaa.gov/paleo/globalwarming/home.htmlhttp://ingrid.ldeo.columbia.edu/SOURCES/.CAYAN/dods
+http://www.ncdc.noaa.gov/paleo/globalwarming/home.html
 http://www.ncdc.noaa.gov/paleo/icecore.html
 http://www.ncdc.noaa.gov/paleo/icecore/antarctica/domec/domec_epica_data.html
 http://www.ncdc.noaa.gov/paleo/icecore/antarctica/taylor/taylor.html
@@ -30020,7 +30019,7 @@ http://www.ncdc.noaa.gov/paleo/pubs/briffa2001/briffa2001.html
 http://www.ncdc.noaa.gov/paleo/pubs/casty2005/casty2005.html
 http://www.ncdc.noaa.gov/paleo/pubs/cheng2006/cheng2006.html
 http://www.ncdc.noaa.gov/paleo/pubs/chuine2004/chuine2004.html
-http://www.ncdc.noaa.gov/paleo/pubs/cook2002/cook2002.htmlhttp://pubs.usgs.gov/of/2003/of03-221
+http://www.ncdc.noaa.gov/paleo/pubs/cook2002/cook2002.html
 http://www.ncdc.noaa.gov/paleo/pubs/cook2003/cook2003.html
 http://www.ncdc.noaa.gov/paleo/pubs/cook2004/cook2004.html
 http://www.ncdc.noaa.gov/paleo/pubs/crowley.html
@@ -30035,6 +30034,7 @@ http://www.ncdc.noaa.gov/paleo/pubs/felis2004/felis2004.html
 http://www.ncdc.noaa.gov/paleo/pubs/flueckiger2004/flueckiger2004.html
 http://www.ncdc.noaa.gov/paleo/pubs/ge2003/ge2003.html
 http://www.ncdc.noaa.gov/paleo/pubs/genty2003/genty2003.html
+http://www.ncdc.noaa.gov/paleo/pubs/glueck2001/glueck2001.html
 http://www.ncdc.noaa.gov/paleo/pubs/hantemirov2002/hantemirov2002.html
 http://www.ncdc.noaa.gov/paleo/pubs/hendy2002/hendy2002.html
 http://www.ncdc.noaa.gov/paleo/pubs/huang2004/huang2004.html
@@ -30433,6 +30433,7 @@ http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/3983?gridFormat=ESRI+Arc+
 http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/3984?gridFormat=ESRI+Arc+ASCII
 http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/399?gridFormat=ESRI+Arc+ASCII
 http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/401?gridFormat=ESRI+Arc+ASCII
+http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/403?gridFormat=ESRI+Arc+ASCII
 http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/405?gridFormat=ESRI+Arc+ASCII
 http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/4090?gridFormat=ESRI+Arc+ASCII
 http://www.ngdc.noaa.gov/dem/squareCellGrid/getArchive/410?gridFormat=ESRI+Arc+ASCII
@@ -30717,7 +30718,6 @@ http://www.ngdc.noaa.gov/hazard/data/kml/photos/8.kml
 http://www.ngdc.noaa.gov/hazard/data/kml/photos/9.kml
 http://www.ngdc.noaa.gov/hazard/fliers/se-0207.shtml
 http://www.ngdc.noaa.gov/hazard/fliers/se-0208.shtml
-http://www.ngdc.noaa.gov/hazard/http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3188
 http://www.ngdc.noaa.gov/hazard/int_srch.shtml
 http://www.ngdc.noaa.gov/hazard/smcat.shtml
 http://www.ngdc.noaa.gov/hazard/strong.shtml
@@ -30828,16 +30828,6 @@ http://www.ngdc.noaa.gov/mgg/bathymetry/arctic/maps/
 http://www.ngdc.noaa.gov/mgg/bathymetry/maps/directdownload.html
 http://www.ngdc.noaa.gov/mgg/bathymetry/maps/nos_intro.html
 http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.html
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://maps.ngdc.noaa.gov/viewers/bathymetry/
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210034&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030031&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180035&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040147&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1382&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1602&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1607&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1862&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
-http://www.ngdc.noaa.gov/mgg/bathymetry/multibeam.htmlhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=RB0002&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/mgg/coastal/coastal.html
 http://www.ngdc.noaa.gov/mgg/dem/demportal.html
 http://www.ngdc.noaa.gov/mgg/fliers/92mgg01.html
@@ -30985,7 +30975,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00696
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00697
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00698
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00700
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00702http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00821
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00702
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00708
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00710
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00751
@@ -31008,6 +30998,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00775
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00778
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00780
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00781
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00782
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00783
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00784
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00786
@@ -31060,7 +31051,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00848
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00849
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00851
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00852
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00854http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00837
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00854
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00858
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00860
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C00861
@@ -31184,7 +31175,8 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01069
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01070
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01071
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01072
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01073http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01074
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01073
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01074
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01075
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01076
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ncdc:C01077
@@ -31341,7 +31333,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_2008
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_20080112to20080630
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_20080630to20100421
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_2010http://ngdc.noaa.gov/hazard/DARTData.shtml
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_2010
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_2011
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_20110624to20120519
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.dart_bpr:41424_201205
@@ -31652,8 +31644,8 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:414
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:417
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:4191
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:423
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:4230
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:423http://sdms.cr.usgs.gov/data/metadata/vcwbmaps.html
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:427
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:4270
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:431
@@ -31686,7 +31678,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:4956
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:4970
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:5010
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:5011http://web.vims.edu/bio/zooplankton/BATS/Data.html
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:5011
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:5050
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:5051
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.dem:5052
@@ -32019,7 +32011,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.geop
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.geophysics:G01497
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.geophysics:G01498
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.geophysics:G01499
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.geophysics:G10120http://www.ngdc.noaa.gov/stp/SOLAR
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.geophysics:G10120
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.hazards:3022
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.hazards:3092
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.hazards:G01139
@@ -33616,7 +33608,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.mult
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY13_03_Multibeam
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY13_04_Multibeam
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY13_05_Multibeam
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY14_04_Multibeamhttp://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2254&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY14_04_Multibeam
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY14_05_Multibeam
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:KRY14_06_Multibeam
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.multibeam:Kohala_Multibeam
@@ -34423,7 +34415,6 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.phot
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:12
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:13
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:14
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:14http://mercury.ornl.gov/clearinghouse/send/xsltText2?fileURL=d:\mercury_instances\usgs\csas\harvested\www1.usgs.gov_metadata_mdata_MISC_usgs_atlas_d_cnty90.xml&full_datasource=Metadata%20Clearinghouse%20Principal%20Node&full_queryString=%20text%20:%201990%20text%20:%20County%20text%20:%20Boundaries%20text%20:%20of%20text%20:%20the%20text%20:%20United%20text%20:%20States&ds_id=
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:15
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:16
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:17
@@ -34431,7 +34422,6 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.phot
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:19
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:2
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:20
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:20ftp://ftp.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/siple/siple_ions.txt
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:23
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:24
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:241
@@ -34484,14 +34474,12 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.phot
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:40
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:41
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:42
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:42http://www.ngdc.noaa.gov/hazardimages/event/show/36
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:43
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:44
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:45
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:46
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:48
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:49
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:4http://www.ngdc.noaa.gov/hazardimages/event/show/5
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:5
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:50
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.photos:51
@@ -34655,7 +34643,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1001_EM302
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1002_EM302
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1004_EM302
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1006_EM302http://maps.ngdc.noaa.gov/viewers/water_column_sonar/
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1006_EM302
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1101_EM302
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1102_EM302
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.ngdc.mgg.wcd:EX1103L1_EM302
@@ -35008,7 +34996,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b0
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00057
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00058
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00059
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00060http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00061/GEODAS/B00061_h93.htm
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00060
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00061
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00062
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00063
@@ -35208,7 +35196,7 @@ http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b0
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00275
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00276
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00277
-http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00278http://surveys.ngdc.noaa.gov/mgg/NOS/coast/B00001-B02000/B00279/GEODAS/B00279_h93.htm
+http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00278
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00279
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00280
 http://www.ngdc.noaa.gov/nmmrview/xmls/xml-to-text.jsp?id=gov.noaa.nos.b00001-b02000:B00281
@@ -35334,6 +35322,7 @@ http://www.ngdc.noaa.gov/nndc/struts/form?t=102978&s=20&d=20
 http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=1&t=101634&s=0&d=4&d=44
 http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=10&t=101634&s=0&d=4&d=44
 http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=11&t=101634&s=0&d=4&d=44
+http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=12&t=101634&s=0&d=4&d=44
 http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=13&t=101634&s=0&d=4&d=44
 http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=14&t=101634&s=0&d=4&d=44
 http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=15&t=101634&s=0&d=4&d=44
@@ -35430,6 +35419,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210032&t=101378&s=8&d=
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210033&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210033&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210034&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210034&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210035&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210035&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=01210038&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
@@ -35489,6 +35479,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030029&t=101378&s=8&d=
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030030&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030030&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030031&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030031&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030032&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030032&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=02030033&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
@@ -36137,6 +36128,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180033&t=101378&s=8&d=
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180034&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180034&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180035&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180035&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180036&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03180036&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=03750009&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
@@ -36357,6 +36349,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040142&t=101378&s=8&d=
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040143&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040143&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040147&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040147&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040148&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040148&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=15040149&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
@@ -37367,6 +37360,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1380&t=101378&s=8&d=7
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1381&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1381&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1382&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1382&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1383&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1383&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1384&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
@@ -37724,6 +37718,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1600&t=101378&s=8&d=7
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1601&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1601&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1602&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1602&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1603&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1603&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1604&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
@@ -37733,6 +37728,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1605&t=101378&s=8&d=7
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1606&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1606&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1607&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1607&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1608&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1608&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1609&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
@@ -38177,6 +38173,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1859&op_1=l&v_1=&op_2
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1859&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1860&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1861&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1862&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1863&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1864&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW1865&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
@@ -38847,6 +38844,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2252&t=101378&s=8&d=7
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2253&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2253&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2254&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2254&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2255&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2255&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW2256&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
@@ -39661,6 +39659,7 @@ http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW999&op_1=l&v_1=&op_2=
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NEW999&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NF0406&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=NF0406&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
+http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=RB0002&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=RB0307&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=SO108&op_1=l&v_1=&op_2=l&v_2=&t=101378&s=2&d=6
 http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=SO108&t=101378&s=8&d=70&d=75&d=76&d=91&d=74&d=73&d=72&d=81&d=82&d=85&d=86&d=79&no_data=suppress
@@ -39738,6 +39737,7 @@ http://www.ngdc.noaa.gov/stp/
 http://www.ngdc.noaa.gov/stp/CDROM/ionocd.html
 http://www.ngdc.noaa.gov/stp/IONO/ionogram.html
 http://www.ngdc.noaa.gov/stp/IONO/ionohome.html
+http://www.ngdc.noaa.gov/stp/SOLAR
 http://www.ngdc.noaa.gov/stp/SOLAR/
 http://www.ngdc.noaa.gov/stp/geomag/geoib.html
 http://www.ngdc.noaa.gov/stp/iono/
@@ -39969,8 +39969,6 @@ http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastruct
 http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783gdp/contexts/radarsatMosaic.xml
 http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783gdp/search?action=entrySummary&entryType=productCollection&entryId=32117&entryLang=en
 http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783gdp/search?action=fullMetadata&entryId=5530&entryLang=fr&entryType=productCollection&language=fr
-http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=2072
-http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783http://www.iabin.net/
 http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783wes/RecordSummaryPage.do?uuid=274410D0-319E-F2D0-04F2-3282BEE8D0D1&recordLocale=en_US&view=summary&entryPoint=jsMap&mode=unmappable
 http://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/8906
 http://www.nrcan.gc.ca/earth-sciences/geomatics/satellite-imagery-air-photos/air-photos/9691
@@ -40094,7 +40092,7 @@ http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440711
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440759
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440769
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440847
-http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440919http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0745452
+http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440919
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440954
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0440975
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0442769
@@ -40225,11 +40223,13 @@ http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0741428
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0741510
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0742057
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0742818
+http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0745452
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0801392
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0808947
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0816934
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0817163
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0828786
+http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0835480
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0836061
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0836112
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0836144
@@ -40332,7 +40332,7 @@ http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043669
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043690
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043700
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043706
-http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043724http://www.ncdc.noaa.gov/paleo/pubs/glueck2001/glueck2001.html
+http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043724
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043740
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043750
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1043761
@@ -40437,10 +40437,9 @@ http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9814579
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9814622
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9814692
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9815283
-http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9815283http://www.marine-geo.org/link/entry.php?id=NBP9908A
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9815823
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9815961
-http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9816049http://www.marine-geo.org/link/entry.php?id=NBP0005
+http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9816049
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9816616
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9896290
 http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=9896356
@@ -40620,7 +40619,6 @@ http://www.pangaea.de/
 http://www.pangaea.de/Projects/CRP/CRP-3/
 http://www.pangaea.de/Projects/CRP/crp-2.html
 http://www.pangaea.de/Projects/GHOST/
-http://www.pangaea.de/http://www.linz.govt.nz/ftp/sea_level_data/ROBT/
 http://www.pangaea.de/search?count=10&minlat=&minlon=&maxlat=&maxlon=&mindate=&maxdate=&env=All&q=globec+
 http://www.pangaea.de/search?count=10&minlat=&minlon=&maxlat=&maxlon=&mindate=&maxdate=&env=All&q=michel+frankignoulle+bg9309
 http://www.pangaea.de/search?count=10&minlat=&minlon=&maxlat=&maxlon=&mindate=&maxdate=&env=All&q=michel+frankignoulle+bg9322a
@@ -40742,6 +40740,7 @@ http://www.remss.com/missions/smap
 http://www.remss.com/papers/amsr/
 http://www.remss.com/sst/microwave_oi_sst_data_description.html
 http://www.remss.com/windsat/
+http://www.reo.gov/gis/data/gisdata/final_lua/nwfpkws.e00.zip
 http://www.reo.gov/gis/data/gisdata/final_lua/nwfpkws_42804.htm
 http://www.reo.gov/gis/data/gisdata/final_lua/nwfplua.e00.zip
 http://www.reo.gov/gis/data/gisdata/final_lua/nwfplua_6404.htm
@@ -40768,6 +40767,7 @@ http://www.rtkatlas.com/
 http://www.rug.nl/biologie/onderzoek/onderzoekgroepen/oe/index
 http://www.rug.nl/fwn/esrig
 http://www.sacc.org.uy/
+http://www.sacha.org/
 http://www.sage.wisc.edu/
 http://www.sage.wisc.edu/download/get_info?dl_file_name=majorcrops/ArcASCII_5min.zip
 http://www.sage.wisc.edu/download/get_info?dl_file_name=majorcrops/ArcASCII_halfdeg.zip
@@ -40795,7 +40795,6 @@ http://www.sat.dundee.ac.uk/coverage.html#polar
 http://www.sat.dundee.ac.uk/demo.html
 http://www.savebuzzardsbay.org/Page.aspx?pid=194
 http://www.sbs.auckland.ac.nz/uoa/science/about/departments/sbs/research/molecular-cellular/evans-clive/associate-professor-clive-evans.cfm
-http://www.sbs.auckland.ac.nz/uoa/science/about/departments/sbs/research/molecular-cellular/evans-clive/associate-professor-clive-evans.cfmhttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=1308
 http://www.scantec.co.nz/
 http://www.scar.org/
 http://www.scar.org/publications
@@ -40814,7 +40813,6 @@ http://www.scarmarbin.be/rams.php?p=browser
 http://www.scarmarbin.be/rams.php?p=search
 http://www.scarmarbin.be/rams.php?p=webservice
 http://www.scarmarbin.be/scarramsabout.php
-http://www.scarmarbin.behttp://www.nrcan.gc.ca/earth-sciences/geomatics/canadas-spatial-data-infrastructure/10783
 http://www.sccoos.org/interactive-map/
 http://www.sccwrp.org/
 http://www.sccwrp.org/view.php?id=33
@@ -41002,7 +41000,6 @@ http://www.tides.gc.ca/eng
 http://www.timed.jhuapl.edu
 http://www.timed.jhuapl.edu/
 http://www.timed.jhuapl.edu/WWW/data/timedData.php
-http://www.timed.jhuapl.edu/http://www.ngdc.noaa.gov/stp/spaceweather.html
 http://www.timed.jhuapl.edu/register/index.html
 http://www.tkl.iis.u-tokyo.ac.jp/top/
 http://www.tnris.org/get-data?quicktabs_maps_data=1
@@ -41295,7 +41292,7 @@ http://www.usap-data.org/entry/NSF-ANT90-24544/
 http://www.usap-dc.org/view/dataset/601001
 http://www.usap-dc.org/view/dataset/601002
 http://www.usap-dc.org/view/dataset/601003
-http://www.usap-dc.org/view/dataset/601004http://sofia.usgs.gov/exchange/estero_bay_ap
+http://www.usap-dc.org/view/dataset/601004
 http://www.uscg-iip.org/cms/index.php?option=com_content&view=article&id=69&Itemid=68
 http://www.usda.gov/oce/weather/pubs/Other/MWCACP/MajorWorldCropAreas.pdf
 http://www.usf.uni-kassel.de/usf/archiv/daten/irriareamap.de.htm
@@ -41387,7 +41384,6 @@ http://www.victoria.ac.nz/sbs/staff/staff_academic/ryanken/ryan-ken.aspx
 http://www.victoria.ac.nz/sbs/staff/staff_research_fellows/ryanken/ryan-ken.aspx
 http://www.vidasilvestre.org.uy/
 http://www.vims.edu/
-http://www.vims.edu/bio/ivars
 http://www.vims.edu/bio/sav/index.html
 http://www.vims.edu/bio/zooplankton/BATS/
 http://www.vims.edu/data_archive/pier/
@@ -41458,7 +41454,6 @@ http://www.wissard.org/wissard-science/science-projects/rages
 http://www.wkap.nl/issuetoc.htm/0167-7764+28+1/3+1997
 http://www.wmo.int/HttpErrorCodes/index_en_404.html
 http://www.wmo.int/pages/index_en.html
-http://www.wmo.int/pages/index_en.htmlhttp://www.ndacc.org
 http://www.wmo.int/pages/prog/wcp/agm/meetings/wies09/documents/Lincoln_Declaration_Drought_Indices.pdf
 http://www.wmo.int/pages/prog/www/TEM/index_en.html
 http://www.woce.org/
@@ -41481,7 +41476,7 @@ http://www.wwf.org.au/publications/bioregionalization-southern-ocean.pdf
 http://www.wwfus.org/science/data/globallakes.cfm
 http://www.wygisc.uwyo.edu/wyview/research.html
 http://www.york.ac.uk/capeverde/
-http://www.youtube.com/channel/UCI0CoatoChxwQwekMfPOuCAhttp://nsidc.org/data/nsidc-0352/versions/1/documentation
+http://www.youtube.com/channel/UCI0CoatoChxwQwekMfPOuCA
 http://www.zin.ru/projects/arccoml/eng/index.html
 http://www.zin.ru/projects/ecoant/eng/
 http://www.zin.ru/projects/ecoant/eng/index.html
@@ -41952,7 +41947,7 @@ https://daac.ornl.gov/BOREAS/guides/RSS16_AIRSAR_CM.html
 https://daac.ornl.gov/BOREAS/guides/RSS16_AIRSAR_SY.html
 https://daac.ornl.gov/BOREAS/guides/RSS17_Dielectric_Prof.html
 https://daac.ornl.gov/BOREAS/guides/RSS17_Stem_Temp.html
-https://daac.ornl.gov/BOREAS/guides/RSS17_Xylem_Flux.htmlhttps://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=449
+https://daac.ornl.gov/BOREAS/guides/RSS17_Xylem_Flux.html
 https://daac.ornl.gov/BOREAS/guides/RSS18_AVIRIS_L1B.html
 https://daac.ornl.gov/BOREAS/guides/RSS18_Sunphoto.html
 https://daac.ornl.gov/BOREAS/guides/RSS19_CASI_1994.html
@@ -42158,7 +42153,7 @@ https://daac.ornl.gov/DAYMET/guides/Daymet_V3_Annual_Climatology.html
 https://daac.ornl.gov/DAYMET/guides/Daymet_V3_CFMosaics.html
 https://daac.ornl.gov/DAYMET/guides/Daymet_V3_CrossVal.html
 https://daac.ornl.gov/DAYMET/guides/Daymet_V3_Monthly_Climatology.html
-https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_AMS_data_87-89.htmlhttps://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=90
+https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_AMS_data_87-89.html
 https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_AMS_data_87.html
 https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_AMS_data_88.html
 https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_AMS_data_89.html
@@ -42175,7 +42170,6 @@ https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_neut_soil_mstr_87.html
 https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_neut_soil_mstr_88.html
 https://daac.ornl.gov/FIFE/Follow_On/guides/Betts_neut_soil_mstr_89.html
 https://daac.ornl.gov/FIFE/guides/15_min_strm_flow.html
-https://daac.ornl.gov/FIFE/guides/15_min_strm_flow.htmlhttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3202
 https://daac.ornl.gov/FIFE/guides/30_Min_Rain_Data.html
 https://daac.ornl.gov/FIFE/guides/AMS_Data.html
 https://daac.ornl.gov/FIFE/guides/Bowen_Ratio_Fritschen.html
@@ -42243,7 +42237,7 @@ https://daac.ornl.gov/FIFE/guides/Surf_Flux_Baseline_92_Derived.html
 https://daac.ornl.gov/FIFE/guides/Surface_Met_Data_NCDC.html
 https://daac.ornl.gov/FIFE/guides/Surface_Radiance_Data_UNL.html
 https://daac.ornl.gov/FIFE/guides/TOVS_atmos_prof.html
-https://daac.ornl.gov/FIFE/guides/Total_Leaf_Tissue_Water_Potential.htmlhttp://data.aad.gov.au/aadc/metadata/citation.cfm?entry_id=DAVIS_STP_TotalOrganicCarbon
+https://daac.ornl.gov/FIFE/guides/Total_Leaf_Tissue_Water_Potential.html
 https://daac.ornl.gov/FIFE/guides/Vegetation_Biophysical_Data.html
 https://daac.ornl.gov/FIFE/guides/Vegetation_Species_Data.html
 https://daac.ornl.gov/FIFE/guides/Vegetation_Species_Reference.html
@@ -42270,7 +42264,7 @@ https://daac.ornl.gov/FIFE/guides/optical_thick_staff.html
 https://daac.ornl.gov/FIFE/guides/radiosnd_temp_humid_prof.html
 https://daac.ornl.gov/FIFE/guides/radiosnd_wind_prof.html
 https://daac.ornl.gov/FIFE/guides/radiosonde_data_noaa.html
-https://daac.ornl.gov/FIFE/guides/sodar_bndry_layer_hts.htmlhttp://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3781
+https://daac.ornl.gov/FIFE/guides/sodar_bndry_layer_hts.html
 https://daac.ornl.gov/FIFE/guides/stream_flow_daily.html
 https://daac.ornl.gov/FIFE/guides/stream_flow_storm.html
 https://daac.ornl.gov/FLUXNET/guides/CO2_buchmann.html
@@ -42460,7 +42454,7 @@ https://daac.ornl.gov/LBA/guides/LC23_Vegetation_Fire_Dynamics.html
 https://daac.ornl.gov/LBA/guides/LC23_Vegetation_Fires_2003.html
 https://daac.ornl.gov/LBA/guides/LC24_Basin_Scale_Hot_Pixels_2001.html
 https://daac.ornl.gov/LBA/guides/LC24_Cadastral_Property_Map_Para.html
-https://daac.ornl.gov/LBA/guides/LC24_ETM_Deforestation_Map_Para_1999.htmlhttps://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1055
+https://daac.ornl.gov/LBA/guides/LC24_ETM_Deforestation_Map_Para_1999.html
 https://daac.ornl.gov/LBA/guides/LC24_Historical_Roads_Amazon.html
 https://daac.ornl.gov/LBA/guides/LC24_Land_Cover_Southern_Para.html
 https://daac.ornl.gov/LBA/guides/LC24_Land_Cover_Uruara_Para.html
@@ -42753,7 +42747,7 @@ https://daac.ornl.gov/S2K/guides/burning_emissions.html
 https://daac.ornl.gov/S2K/guides/bvoc_flux.html
 https://daac.ornl.gov/S2K/guides/cogley.html
 https://daac.ornl.gov/S2K/guides/cp_lidar_images.html
-https://daac.ornl.gov/S2K/guides/cpep_discharge.htmlhttp://daac.ornl.gov/S2K/safari.shtml
+https://daac.ornl.gov/S2K/guides/cpep_discharge.html
 https://daac.ornl.gov/S2K/guides/cramer_leemans.html
 https://daac.ornl.gov/S2K/guides/daily_precip_est.html
 https://daac.ornl.gov/S2K/guides/diffuse_irradiance.html
@@ -42986,6 +42980,7 @@ https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1051
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1052
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1053
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1054
+https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1055
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1056
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1057
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1058
@@ -43622,6 +43617,7 @@ https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=445
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=446
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=447
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=448
+https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=449
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=45
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=450
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=451
@@ -43851,6 +43847,7 @@ https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=686
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=687
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=688
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=689
+https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=69
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=690
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=691
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=692
@@ -44029,6 +44026,7 @@ https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=897
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=898
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=899
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=9
+https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=90
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=903
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=904
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=906
@@ -44305,7 +44303,7 @@ https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0020_cearex_v01/
 https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0026_avhrr_leads_ari_v01/
 https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0027_tovs_pathfinder_atm/
 https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0032_ease_grid_tbs/
-https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0036_pathfinder_smmr_tbs_v01/http://nsidc.org/data/docs/daac/nsidc0071_smmr_ease_tbs.gd.html
+https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0036_pathfinder_smmr_tbs_v01/
 https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0037_smmr_ta_v01/
 https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0046_weekly_snow_seaice/
 https://daacdata.apps.nsidc.org/pub/DATASETS/nsidc0051_gsfc_nasateam_seaice/
@@ -44494,6 +44492,7 @@ https://db.aoos.org/wiki/index.php?title=ArcOD_2006B3
 https://digital.lib.washington.edu/researchworks/handle/1773/37320
 https://directory.eoportal.org/web/eoportal/satellite-missions/content/-/article/dmc
 https://directory.eoportal.org/web/eoportal/satellite-missions/i/iss-rapidscat
+https://disc.gsfc.nasa.gov/AIRS/images/3B42.20160229.7.png
 https://disc.gsfc.nasa.gov/AIRS/images/3B42RT.20160509.7.png
 https://disc.gsfc.nasa.gov/OCO-2/images/OCO2_Att_7.jpg
 https://disc.gsfc.nasa.gov/OCO-2/images/OCO2_Att_7r.jpg
@@ -44546,6 +44545,7 @@ https://disc.gsfc.nasa.gov/TRMM/images/TRMM_3G31.png
 https://disc.gsfc.nasa.gov/TRMM/images/TRMM_3H25.png
 https://disc.gsfc.nasa.gov/TRMM/images/TRMM_3H31.png
 https://disc.gsfc.nasa.gov/TRMM/images/TRMM_CSH.png
+https://disc.gsfc.nasa.gov/acdisc/images/OMPS_NPP_LP_L2_AER675_DAILY.png
 https://disc.gsfc.nasa.gov/additional/faq/precipitation_faq.shtml
 https://disc.gsfc.nasa.gov/atdd/images/AMSRERR_CPR.png
 https://disc.gsfc.nasa.gov/atdd/images/MAC021S0.png
@@ -44606,6 +44606,7 @@ https://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFMETOPBMHS_v3.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFMT1SAPHIR_v3.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFNOAA18MHS_v3.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFNOAA19MHS_v3.png
+https://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFNPPATMS.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFTRMMTMI_v3.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_2AKaENV_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_2AKa_v4.png
@@ -44623,6 +44624,7 @@ https://disc.gsfc.nasa.gov/gpm/images/GPM_3DPR_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_3GCSH_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF16SSMIS_CLIM_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF16SSMIS_DAY_CLIM_v4.png
+https://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF16SSMIS_DAY_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF16SSMIS_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF17SSMIS_CLIM_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF17SSMIS_DAY_CLIM_v4.png
@@ -44672,6 +44674,12 @@ https://disc.gsfc.nasa.gov/gpm/images/GPM_BASEGPMGMI_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_PRL1KA_v4.png
 https://disc.gsfc.nasa.gov/gpm/images/GPM_PRL1KU_v4.png
 https://disc.gsfc.nasa.gov/hydrology/images/GRACEDADM_CLSM0125US_7D_2.0.png
+https://disc.gsfc.nasa.gov/measures/images/LANDMET_ANC_SM_L3_v1.png
+https://disc.gsfc.nasa.gov/measures/images/LANDMET_ANC_ST_L3_v1.png
+https://disc.gsfc.nasa.gov/measures/images/LANDMET_ANC_TEIME_L3_v1.png
+https://disc.gsfc.nasa.gov/measures/images/LANDMET_ANC_TESA_L3_v1.png
+https://disc.gsfc.nasa.gov/measures/images/LANDMET_L3_v1.png
+https://disc.gsfc.nasa.gov/measures/images/MACLWP_diurnal_1.png
 https://disc.gsfc.nasa.gov/measures/images/MACLWP_mean_1.png
 https://disc.gsfc.nasa.gov/measures/images/MACTWP_mean_1.png
 https://disc.gsfc.nasa.gov/nimbus/images/HRIRN1IM.png
@@ -44947,8 +44955,6 @@ https://firms.modaps.eosdis.nasa.gov/wms/viirs/?SERVICE=WMS&VERSION=1.1.1&REQUES
 https://gcom-w1.jaxa.jp/auth.html
 https://ghrc.nsstc.nasa.gov/amsutemps/
 https://ghrc.nsstc.nasa.gov/home/about-ghrc/citing-ghrc-daac-data
-https://ghrc.nsstc.nasa.gov/home/about-ghrc/citing-ghrc-daac-datahttps://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Dropsonde_DC-8/data/
-https://ghrc.nsstc.nasa.gov/home/about-ghrc/citing-ghrc-daac-datanotavailableyet
 https://ghrc.nsstc.nasa.gov/home/field-campaigns/ACES
 https://ghrc.nsstc.nasa.gov/home/field-campaigns/CAMEX3
 https://ghrc.nsstc.nasa.gov/home/field-campaigns/GCPEx
@@ -45189,6 +45195,7 @@ https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Cloud_Microphysics/browse/
 https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Cloud_Microphysics/browse/09072001_170700_2DC.gif
 https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Cloud_Microphysics/data/
 https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Dropsonde_DC-8/browse/
+https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Dropsonde_DC-8/data/
 https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Dropsonde_ER-2/browse/
 https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/Dropsonde_ER-2/data/
 https://ghrc.nsstc.nasa.gov/pub/fieldCampaigns/camex4/EDOP/browse/
@@ -45533,7 +45540,6 @@ https://gpm1.gesdisc.eosdis.nasa.gov/data/GPM_L3/GPM_3IMERGHHE.03/
 https://gpm1.gesdisc.eosdis.nasa.gov/data/GPM_L3/GPM_3IMERGHHL.03/
 https://gpm1.gesdisc.eosdis.nasa.gov/data/GPM_L3/GPM_3IMERGM.03/
 https://gpm1.gesdisc.eosdis.nasa.gov/data/doc/README.GPM.pdf
-https://gpm1.gesdisc.eosdis.nasa.gov/data/doc/README.GPM.pdfhttps://disc.gsfc.nasa.gov/gpm/images/GPM_2AGPROFNPPATMS.png
 https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L1A/GPM_1AGMI.04/contents.html
 https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L1B/GPM_1BGMI.04/contents.html
 https://gpm1.gesdisc.eosdis.nasa.gov/opendap/GPM_L1B/GPM_PRL1KA.04/contents.html
@@ -45678,7 +45684,6 @@ https://lpdaac.usgs.gov
 https://lpdaac.usgs.gov/
 https://lpdaac.usgs.gov/data_access/data_pool
 https://lpdaac.usgs.gov/data_access/data_pool/
-https://lpdaac.usgs.gov/http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=aquaTerra&ver=C6
 https://lpdaac.usgs.gov/node/10
 https://lpdaac.usgs.gov/node/11
 https://lpdaac.usgs.gov/node/12
@@ -45761,7 +45766,7 @@ https://lternet.edu/lter-sitesdatasets/glaciers/glthrmst.dat
 https://lternet.edu/lter-sitesdatasets/meteorology/beacon.html
 https://lternet.edu/lter-sitesdatasets/meteorology/bonney.html
 https://lternet.edu/lter-sitesdatasets/meteorology/bonney_snow.html
-https://lternet.edu/lter-sitesdatasets/meteorology/brown.htmlhttp://www.mcmlter.org/power-search/data-set?f[0]=field_station_keywords_ref%3A62
+https://lternet.edu/lter-sitesdatasets/meteorology/brown.html
 https://lternet.edu/lter-sitesdatasets/meteorology/caam_airt.dat
 https://lternet.edu/lter-sitesdatasets/meteorology/caam_airt_daily_avg.dat
 https://lternet.edu/lter-sitesdatasets/meteorology/caam_airt_monthly_avg.dat
@@ -45822,12 +45827,30 @@ https://maps.ngdc.noaa.gov/viewers/sample_index/index.html?institution=UT
 https://maps.ngdc.noaa.gov/viewers/sample_index/index.html?institution=WHOI
 https://maps.ngdc.noaa.gov/viewers/sample_index/index.html?institution=WISC
 https://mcst.gsfc.nasa.gov/
+https://measures.gesdisc.eosdis.nasa.gov/data/LANDMET/LANDMET.1
+https://measures.gesdisc.eosdis.nasa.gov/data/LANDMET/LANDMET_ANC_SM.1
+https://measures.gesdisc.eosdis.nasa.gov/data/LANDMET/LANDMET_ANC_ST.1
+https://measures.gesdisc.eosdis.nasa.gov/data/LANDMET/LANDMET_ANC_TEIME.1
+https://measures.gesdisc.eosdis.nasa.gov/data/LANDMET/LANDMET_ANC_TESA.1
+https://measures.gesdisc.eosdis.nasa.gov/data/LWP/MACLWP_diurnal.1/
+https://measures.gesdisc.eosdis.nasa.gov/data/LWP/MACLWP_diurnal.1/doc/README.MultisensorAdvancedClimatologyLiquidWaterPath_V1.pdf
 https://measures.gesdisc.eosdis.nasa.gov/data/LWP/MACLWP_mean.1/
 https://measures.gesdisc.eosdis.nasa.gov/data/LWP/MACLWP_mean.1/doc/README.MultisensorAdvancedClimatologyLiquidWaterPath_V1.pdf
 https://measures.gesdisc.eosdis.nasa.gov/data/LWP/MACTWP_mean.1/
 https://measures.gesdisc.eosdis.nasa.gov/data/LWP/MACTWP_mean.1/doc/README.MultisensorAdvancedClimatologyLiquidWaterPath_V1.pdf
+https://measures.gesdisc.eosdis.nasa.gov/opendap/LANDMET/LANDMET.1/contents.html
+https://measures.gesdisc.eosdis.nasa.gov/opendap/LANDMET/LANDMET_ANC_SM.1/contents.html
+https://measures.gesdisc.eosdis.nasa.gov/opendap/LANDMET/LANDMET_ANC_ST.1/contents.html
+https://measures.gesdisc.eosdis.nasa.gov/opendap/LANDMET/LANDMET_ANC_TEIME.1/contents.html
+https://measures.gesdisc.eosdis.nasa.gov/opendap/LANDMET/LANDMET_ANC_TESA.1/contents.html
+https://measures.gesdisc.eosdis.nasa.gov/opendap/LWP/MACLWP_diurnal.1/
 https://measures.gesdisc.eosdis.nasa.gov/opendap/LWP/MACLWP_mean.1/
 https://measures.gesdisc.eosdis.nasa.gov/opendap/LWP/MACTWP_mean.1/
+https://measures.gsfc.nasa.gov/data/LANDMET/LANDMET.1/doc/README.LANDMET_V1.pdf
+https://measures.gsfc.nasa.gov/data/LANDMET/LANDMET_ANC_SM.1/doc/README.LANDMET_V1.pdf
+https://measures.gsfc.nasa.gov/data/LANDMET/LANDMET_ANC_ST.1/doc/README.LANDMET_V1.pdf
+https://measures.gsfc.nasa.gov/data/LANDMET/LANDMET_ANC_TEIME.1/doc/README.LANDMET_V1.pdf
+https://measures.gsfc.nasa.gov/data/LANDMET/LANDMET_ANC_TESA.1/doc/README.LANDMET_V1.pdf
 https://mercury.ornl.gov/ornldaac/
 https://mirador.gsfc.nasa.gov/
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/collectionlist.pl?keyword=ACOS_L2S
@@ -45938,6 +45961,11 @@ https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=GPM_BASEGPM
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=GPM_PRL1KA
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=GPM_PRL1KU
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=L1aIn_Sample
+https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=LANDMET
+https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=LANDMET_ANC_SM
+https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=LANDMET_ANC_ST
+https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=LANDMET_ANC_TEIME
+https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=LANDMET_ANC_TESA
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=MAC021S0
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=MAC021S1
 https://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=MAC02QS0
@@ -46367,7 +46395,7 @@ https://pps.gsfc.nasa.gov/Documents/filespec.GPM.2AKu.pdf
 https://pps.gsfc.nasa.gov/Documents/filespec.TRMM.V7.pdf
 https://pps.gsfc.nasa.gov/Documents/formatChangesV7.pdf
 https://projects.atlas.ca.gov/projects/snepdigitalspat/
-https://pubs.usgs.gov/ha/ha730/http://pubs.usgs.gov/of/2003/0006/pdf/of03-6.pdf
+https://pubs.usgs.gov/ha/ha730/
 https://pubs.usgs.gov/of//2003/of03-001/data/bathymetry/ny_gome_contours.htm
 https://pubs.usgs.gov/of/2003/of03-221/data/basemaps/cape_cod_geology/cape_cod_geology.htm
 https://reanalyses.org/
@@ -46646,6 +46674,11 @@ https://search.earthdata.nasa.gov/search?q=HRIRN3IM
 https://search.earthdata.nasa.gov/search?q=HRIRN3L1
 https://search.earthdata.nasa.gov/search?q=IPAPP1B
 https://search.earthdata.nasa.gov/search?q=IRISN4RAD
+https://search.earthdata.nasa.gov/search?q=LANDMET
+https://search.earthdata.nasa.gov/search?q=LANDMET_ANC_SM
+https://search.earthdata.nasa.gov/search?q=LANDMET_ANC_ST
+https://search.earthdata.nasa.gov/search?q=LANDMET_ANC_TEIME
+https://search.earthdata.nasa.gov/search?q=LANDMET_ANC_TESA
 https://search.earthdata.nasa.gov/search?q=LIMSN7L2
 https://search.earthdata.nasa.gov/search?q=LIMSN7L3
 https://search.earthdata.nasa.gov/search?q=LPRM_AMSR2_A_SOILM3
@@ -46758,6 +46791,7 @@ https://search.earthdata.nasa.gov/search?q=M2TUNXRAD
 https://search.earthdata.nasa.gov/search?q=M2TUNXSLV
 https://search.earthdata.nasa.gov/search?q=MAC0FXCHM
 https://search.earthdata.nasa.gov/search?q=MAC0NXASM
+https://search.earthdata.nasa.gov/search?q=MACLWP_diurnal
 https://search.earthdata.nasa.gov/search?q=MACLWP_mean
 https://search.earthdata.nasa.gov/search?q=MACTWP_mean
 https://search.earthdata.nasa.gov/search?q=MAI1NXINT
@@ -46957,6 +46991,7 @@ https://search.earthdata.nasa.gov/search?q=TRMM_CSH
 https://search.earthdata.nasa.gov/search?q=TRMM_baseUW
 https://secure.spatialmapping.com
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=1
+https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=100
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=1002
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=1003
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=1004
@@ -47433,6 +47468,7 @@ https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?proje
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=51
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=514
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=517
+https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=519
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=520
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=527
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=528
@@ -47449,6 +47485,7 @@ https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?proje
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=562
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=565
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=568
+https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=57
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=570
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=58
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=587
@@ -47589,6 +47626,7 @@ https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?proje
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=AAS_4344
 https://secure3.aad.gov.au/proms/public/projects/report_project_public.cfm?project_no=AAS_4347
 https://secure3.aad.gov.au/proms/public/projects/search_projects_results.cfm?project_no=1187
+https://secure3.aad.gov.au/proms/public/projects/search_projects_results.cfm?project_no=226
 https://secure3.aad.gov.au/proms/public/projects/search_projects_results.cfm?project_no=2295
 https://secure3.aad.gov.au/proms/public/projects/search_projects_results.cfm?project_no=2722
 https://secure3.aad.gov.au/proms/public/projects/search_projects_results.cfm?project_no=2767
@@ -47612,7 +47650,6 @@ https://software.ecmwf.int/wiki/display/TIGGE
 https://spot-take5.org/client/#/home
 https://spot.cnes.fr/en/SPOT/index.htm
 https://storm-pps.gsfc.nasa.gov/storm/data/docs/filespec.GPM.V1.3GPROF.pdf
-https://storm-pps.gsfc.nasa.gov/storm/data/docs/filespec.GPM.V1.3GPROF.pdfhttps://disc.gsfc.nasa.gov/gpm/images/GPM_3GPROFF16SSMIS_DAY_v4.png
 https://storm-pps.gsfc.nasa.gov/storm/data/docs/filespec.GPM.V1.GMIBASERSS.pdf
 https://storm-pps.gsfc.nasa.gov/storm/data/docs/filespec.GPM.V1.GMIBASEXCAL.pdf
 https://storm.pps.eosdis.nasa.gov/storm/data/docs/filespec.TRMM.V7.3G25.pdf
@@ -47702,7 +47739,6 @@ https://trmm.gsfc.nasa.gov
 https://trmm.gsfc.nasa.gov/
 https://ursa.asfdaac.alaska.edu/cgi-bin/login/guest/
 https://vertex.daac.asf.alaska.edu/
-https://vertex.daac.asf.alaska.edu/https://vertex.daac.asf.alaska.edu/
 https://weather.gc.ca/marine/weatherConditions-currentConditions_e.html?mapID=15
 https://weather.msfc.nasa.gov/AMSR/data_products.html
 https://webmap.ornl.gov/sdat/pimg/1000_1_fit.png
