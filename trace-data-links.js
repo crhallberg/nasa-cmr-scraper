@@ -2,7 +2,9 @@ const spawn = require('child_process').spawn,
       fs = require('fs'),
       debug = () => {}; // console.log.bind(console); //
 
-const threads = 32;
+const threads = 16;
+const timeout = 20;
+
 let done = [];
 let links = fs.readFileSync('./sorted-links.txt', 'utf-8').split('\n');
 console.log('Checking ' + links.length + ' links...');
@@ -43,7 +45,7 @@ function checkDoneAndClose() {
 
 function save(index, headers) {
   debug('save', headers.url);
-  links[index] = JSON.stringify(headers);
+  links[index] = headers;
   next(index);
 }
 function reject(index) {
@@ -78,12 +80,12 @@ function checkFile(url) {
     if (
       !url
       || !url.match('://')
-      || url.substr(0, 6) === 'ftp://'
       || url.substr(0, 7) === 'mailto:'
+      || (url.substr(0, 6) === 'ftp://' && url.substr(-1) === '/')
     ) {
       return fail();
     }
-    curl(['-sIL', url, '--connect-timeout', 30])
+    curl(['-sIL', url, '--connect-timeout', timeout])
       .then(function(_headers) {
         if (!_headers) {
           return fail();
@@ -91,12 +93,16 @@ function checkFile(url) {
         const headers = _headers.trim().split('\r\n\r\n');
         const metadata = parseHeaders(headers[headers.length - 1]);
         if (
-          !metadata
-          || !metadata['Content-Type']
-          || !metadata['Content-Type'] === 'text/html'
+          url.substr(0, 6) !== 'ftp://'
+          && (
+            !metadata
+            || !metadata['Content-Type']
+            || metadata['Content-Type'].match('text/html')
+          )
         ) {
           return fail();
         }
+        metadata.url = url;
         succeed(metadata);
       })
       .catch((code) => {

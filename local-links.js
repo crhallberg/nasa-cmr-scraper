@@ -16,6 +16,6 @@ for (let i = 0; i < json.feed.entry.length; i++) {
 }
 
 const d = new Date();
-require('child_process').spawn('mv', ['all-links.txt', 'links.' + d.getTime() + '.txt.bak']);
+require('child_process').spawn('mv', ['all-links.txt', 'backups/links.' + d.getTime() + '.txt.bak']);
 console.log(links.length, 'links found');
 fs.writeFileSync('./all-links.txt', links.join('\n'));
