@@ -6,6 +6,7 @@ const threads = 16;
 const timeout = 20;
 
 let done = [];
+let jsonOut = [];
 let links = fs.readFileSync('./sorted-links.txt', 'utf-8').split('\n');
 console.log('Checking ' + links.length + ' links...');
 for (let i = 0; i < threads; i++) {
@@ -40,17 +41,22 @@ function checkDoneAndClose() {
     }
   }
   links = links.filter((op) => op !== null);
-  fs.writeFileSync('traced-data-links.json', JSON.stringify(links, null, '\t'));
+  console.log('writing file', links.length);
+  fs.writeFileSync('traced-data-links.json', JSON.stringify(jsonOut, null, '\t'));
 }
 
 function save(index, headers) {
   debug('save', headers.url);
-  links[index] = headers;
+  // links[index] = headers;
+  jsonOut.push({
+     url: links[index],
+     header: headers
+  });
   next(index);
 }
 function reject(index) {
   debug('reject', links[index]);
-  links[index] = null;
+  // links[index] = null;
   next(index);
 }
 function next(index) {
@@ -102,7 +108,6 @@ function checkFile(url) {
         ) {
           return fail();
         }
-        metadata.url = url;
         succeed(metadata);
       })
       .catch((code) => {
