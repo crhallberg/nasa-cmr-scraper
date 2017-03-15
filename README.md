@@ -1,12 +1,12 @@
 # NASA CMR Rescue
 
 ## Method
-  1. Parse out links
-  1. Sort links to remove duplicates
-  1. Trace and sort out direct data links
+  1. ~~Parse out links~~
+  1. ~~Sort links to remove duplicates~~ [`sorted-links.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/sorted-links.txt)
+  1. ~~Trace and sort out direct data links~~ [`traced-data-links.json`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced-data-links.json)
   1. Go through collections.json again
-    1. Match links
-    1. Consolidate metadata
+      1. Match links
+      1. Consolidate metadata
 
 ## TODO
  - ftp direct file data
@@ -17,7 +17,7 @@
 
 ## File descriptions
 - `get-collections.js` - gets all metadata from collections, colates all pages as if it were all one page
-- `collections.json` - the result of `get-collections.js`
+- `collections.json` - the result of `get-collections.js` (`collections.min.json` is the file before pretty-printing)
 - `links-paging.js` - gets all links available from collections.json API source
 - `all-links.txt` - the result of `links-paging.js`
 - `sort-links.js` - sorts `all_links.txt` and removes duplicates
@@ -31,6 +31,7 @@
 ## Collections.json
 - 32,710 entries
 - 48,125 links
+- 5,919 [direct data links](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced-data-links.json) (approx. 54GB at min)
 - example entry format:
 ```json
 {
@@ -66,4 +67,3 @@
   ]
 }
 ```
-
