@@ -9,12 +9,24 @@
     1. Consolidate metadata
 
 ## TODO
- - `trace-sorted-links.js`
-    - reject only ftp:// links that end in /
- - ftp crawling
+ - ftp direct file data
+ - ftp folder crawling
  - directory website identification
     - example :http://acdisc.gesdisc.eosdis.nasa.gov/data/Aura_MLS_Level2/ML2HCL.003/
  - directory website crawling
+
+## File descriptions
+- `get-collections.js` - gets all metadata from collections, colates all pages as if it were all one page
+- `collections.json` - the result of `get-collections.js`
+- `links-paging.js` - gets all links available from collections.json API source
+- `all-links.txt` - the result of `links-paging.js`
+- `sort-links.js` - sorts `all_links.txt` and removes duplicates
+- `sorted-links.txt` - the result of `sort-links.js`
+- `trace-data-links.js` - uses `curl -sIL` to check and save the headers of all the urls in `sorted-links.txt`
+  1. rejects invalid urls
+  1. rejects 20 second timeouts
+  1. rejects ftp:// directory links
+- `traced-data-links.json` - result of `trace-sorted-links.js`
 
 ## Collections.json
 - 32,710 entries
@@ -55,17 +67,3 @@
 }
 ```
 
-## File descriptions
-- `get-collections.js` - gets all metadata from collections, colates all pages as if it were all one page
-- `collections.json` - the result of `get-collections.js`
-- `links-paging.js` - gets all links available from collections.json API source
-- `all-links.txt` - the result of `links-paging.js`
-- `sort-links.js` - sorts `all_links.txt` and removes duplicates
-- `sorted-links.txt` - the result of `sort-links.js`
-- `trace-sorted-links.js` - uses `curl -sIL` to check the headers of all the urls in `sorted-links.txt`
-  1. rejects invalid urls
-  1. rejects 10 second timeouts
-  1. rejects ftp:// links (needs special processing for directories)
-- `traced-data-links.txt` - result of `trace-sorted-links.js`
-
-- `{timestamp}.txt.bak` - backups of `all_links.txt`
