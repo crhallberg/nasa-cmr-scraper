@@ -1,9 +1,25 @@
+console.time('process-length');
 const spawn = require('child_process').spawn,
       fs = require('fs'),
       debug = () => {}; // console.log.bind(console); //
 
 const threads = 16;
 const timeout = 20;
+
+function createWriteStream(filename) {
+  if (fs.existsSync(filename)) {
+    let parts = filename.split('.');
+    parts[parts.length - 1] = (new Date).getTime() + '.bak.' + parts[parts.length - 1];
+    console.log(parts.join('.'));
+    spawn('mv', [filename, parts.join('.')]);
+    fs.writeFileSync(filename, '');
+  }
+  return fs.createWriteStream(filename);
+}
+
+const ftpFolders    = createWriteStream('./traced/ftp-folders.txt');
+const htmlIndexes   = createWriteStream('./traced/html-indexes.txt');
+const rejectedLinks = createWriteStream('./traced/rejected-links.txt');
 
 let done = [];
 let jsonOut = [];
@@ -34,17 +50,32 @@ function curl(params) {
   });
 }
 
-function checkDoneAndClose() {
+function checkDoneAndClose(tid) {
+  console.log('checkDoneAndClose', tid);
   for (let i = 0; i < done.length; i++) {
     if (!done[i]) {
       return;
     }
   }
+  console.log('DONE!');
   links = links.filter((op) => op !== null);
   console.log('writing file', links.length);
-  fs.writeFileSync('traced-data-links.json', JSON.stringify(jsonOut, null, '\t'));
+  fs.writeFileSync('./traced/data-links.json', JSON.stringify(jsonOut, null, '\t'));
+  ftpFolders.end();
+  htmlIndexes.end();
+  rejectedLinks.end();
+  console.timeEnd('process-length');
 }
 
+function next(index) {
+  const n = index + threads;
+  if (n < links.length) {
+    investigate(n);
+  } else {
+    done[index % threads] = true;
+    checkDoneAndClose(index % threads);
+  }
+}
 function save(index, headers) {
   debug('save', headers.url);
   // links[index] = headers;
@@ -55,18 +86,21 @@ function save(index, headers) {
   next(index);
 }
 function reject(index) {
-  debug('reject', links[index]);
+  const url = links[index];
+  debug('reject', url);
+  if (
+    !url
+    || !url.match('://')
+    || url.substr(0, 7) === 'mailto:'
+  ) {
+    rejectedLinks.write(url + '\n');
+  } else if (url.substr(0, 6) === 'ftp://' && url.substr(-1) === '/') {
+    ftpFolders.write(url + '\n');
+  } else {
+    htmlIndexes.write(url + '\n');
+  }
   // links[index] = null;
   next(index);
-}
-function next(index) {
-  const n = index + threads;
-  if (n < links.length) {
-    investigate(n);
-  } else {
-    done[index % threads] = true;
-    checkDoneAndClose();
-  }
 }
 
 function parseHeaders(_headers) {

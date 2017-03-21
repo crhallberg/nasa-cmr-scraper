@@ -4,7 +4,10 @@
   1. ~~Download all pages of [source](https://cmr.sit.earthdata.nasa.gov/search/collections.json?pretty=true)~~ [`collections.json`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/collections.json)
   1. ~~Parse out links~~ [`all-links.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/all-links.txt)
   1. ~~Sort links to remove duplicates~~ [`sorted-links.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/sorted-links.txt)
-  1. ~~Trace and sort out direct data links~~ [`traced-data-links.json`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced-data-links.json)
+  1. ~~Trace and sort out direct data links~~ [`traced/data-links.json`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced/data-links.json)
+      1. Save ftp folders to `traced/ftp-folders.txt`
+      1. Save html indexes to `traced/html-indexes.txt`
+      1. Save rejected links to `traced/rejected-links.txt`
   1. Go through collections.json again
       1. Match links
       1. Consolidate metadata
@@ -27,7 +30,7 @@
   1. rejects invalid urls
   1. rejects 20 second timeouts
   1. rejects ftp:// directory links
-- `traced-data-links.json` - result of `trace-sorted-links.js`
+- `traced/data-links.json` - primary metadata result of `trace-sorted-links.js`
 
 ## Collections.json
 - 32,710 entries
