@@ -5,9 +5,9 @@
   1. ~~Parse out links~~ [`all-links.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/all-links.txt)
   1. ~~Sort links to remove duplicates~~ [`sorted-links.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/sorted-links.txt)
   1. ~~Trace and sort out direct data links~~ [`traced/data-links.json`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced/data-links.json)
-      1. Save ftp folders to `traced/ftp-folders.txt`
-      1. Save html indexes to `traced/html-indexes.txt`
-      1. Save rejected links to `traced/rejected-links.txt`
+      1. Save ftp folders to [`traced/ftp-folders.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced/ftp-folders.txt)
+      1. Save html indexes to [`traced/html-indexes.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced/html-indexes.txt)
+      1. Save rejected links to [`traced/rejected-links.txt`](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced/rejected-links.txt)
   1. Go through collections.json again
       1. Match links
       1. Consolidate metadata
@@ -35,7 +35,7 @@
 ## Collections.json
 - 32,710 entries
 - 48,125 links
-- 5,919 [direct data links](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced-data-links.json) (approx. 54GB at min)
+- 5,919 [direct data links](https://github.com/crhallberg/nasa-cmr-scraper/blob/master/traced/data-links.json) (approx. 54GB at min)
 - example entry format:
 ```json
 {
